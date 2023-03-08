@@ -23,7 +23,7 @@ about:
       href: mailto:ccani007@fiu.edu
 ---
 
-As a PhD candidate in social welfare, my professional purpose is to make a meaningful contribution to the field of adolescent suicide prevention through cutting-edge research using machine learning classification methods to identify critical risk factors for adolescent suicide morbidity
+As a PhD candidate in social welfare, my primary objective is to advance the field of adolescent suicide prevention through groundbreaking research. Utilizing machine learning classification techniques, I aim to identify critical risk factors for adolescent suicide morbidity and make a significant impact in this area of study.
 
 My passion lies in data science and its application to mental health-related issues. Recently, I have broadened my skill set by working extensively in both `R` and `Python` environments. My focus primarily lies in cleaning, understanding, and merging datasets, and conducting comprehensive data exploration analysis using an array of packages such as `dplyr`, `ggplot2`, `purr`, `stringr`, `table1`, `gtsummary`, `skimr`, and `stats`.
 
