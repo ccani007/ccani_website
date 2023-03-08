@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Catalina Cañizares",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Resources",
     "section": "",
-    "text": "As a PhD candidate in social welfare, my professional purpose is to make a meaningful contribution to the field of adolescent suicide prevention through cutting-edge research using machine learning classification methods to identify critical risk factors for adolescent suicide morbidity\ny passion lies in data science and its application to mental health-related issues. Recently, I have broadened my skill set by working extensively in both R and Python environments. My focus primarily lies in cleaning, understanding, and merging datasets, and conducting comprehensive data exploration analysis using an array of packages such as dplyr, ggplot2, purr, stringr, table1, gtsummary, skimr, and stats.\nLastly, I strongly believe in the principles of reproducible research, and I advocate for it by using Quarto and RMarkdown."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "presentations.html",
-    "href": "presentations.html",
-    "title": "Presentations",
-    "section": "",
-    "text": "aqui pondria los links de mis presentaciones\n\ndata(iris)\nlibrary(tidyverse)\n\n── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──\n✔ ggplot2 3.4.0     ✔ purrr   1.0.1\n✔ tibble  3.1.8     ✔ dplyr   1.1.0\n✔ tidyr   1.3.0     ✔ stringr 1.5.0\n✔ readr   2.1.3     ✔ forcats 1.0.0\n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\n\nggplot(iris, aes(x = Sepal.Length)) +\n  geom_bar()"
-  },
-  {
-    "objectID": "index.html#welcome-to-my-website",
-    "href": "index.html#welcome-to-my-website",
-    "title": "Hello there!",
-    "section": "Welcome to my website",
-    "text": "Welcome to my website\nFeel free to look around.\nYou will learn about me, my passions, and current work"
+    "text": "Will be updated soon"
   },
   {
     "objectID": "projects.html",
@@ -49,10 +28,10 @@
     "text": "Dissertation\n\n\nDescribe"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching Resources",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Catalina Cañizares",
     "section": "",
-    "text": "Will be updated soon"
+    "text": "As a PhD candidate in social welfare, my professional purpose is to make a meaningful contribution to the field of adolescent suicide prevention through cutting-edge research using machine learning classification methods to identify critical risk factors for adolescent suicide morbidity\ny passion lies in data science and its application to mental health-related issues. Recently, I have broadened my skill set by working extensively in both R and Python environments. My focus primarily lies in cleaning, understanding, and merging datasets, and conducting comprehensive data exploration analysis using an array of packages such as dplyr, ggplot2, purr, stringr, table1, gtsummary, skimr, and stats.\nLastly, I strongly believe in the principles of reproducible research, and I advocate for it by using Quarto and RMarkdown."
   }
 ]
