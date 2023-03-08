@@ -7,12 +7,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - presentations.qmd
+      - resume.qmd
+      - projects.qmd
+      - teaching.qmd
 
 format:
   html:
-    theme: solar
+    theme: flatly
     css: styles.css
     toc: true
 

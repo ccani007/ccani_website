@@ -1,15 +1,37 @@
 ---
-title: "Hey"
+title: "Catalina Cañizares"
+image: img/me.png
+about:
+  template: jolla
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/ccani007
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/catalina-ca%C3%B1izares-escobar-2239114a/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/catalinacaniza1?lang=en
+    - icon: mastodon
+      text: Mastodon
+      href: https://mastodon.online/@catcaniz
+    - icon: envelope
+      text: Contact me
+      href: mailto:ccani007@fiu.edu
 ---
-<img class="avatar" src="img/me.png" alt="avatar">
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
 
 
-[![](img/github.svg) GitHub](https://github.com/ccani007)
+
+As a PhD candidate in social welfare, my professional purpose is to make a meaningful contribution to the field of adolescent suicide prevention through cutting-edge research using machine learning classification methods to identify critical risk factors for adolescent suicide morbidity
+
+y passion lies in data science and its application to mental health-related issues. Recently, I have broadened my skill set by working extensively in both `R` and `Python` environments. My focus primarily lies in cleaning, understanding, and merging datasets, and conducting comprehensive data exploration analysis using an array of packages such as `dplyr`, `ggplot2`, `purr`, `stringr`, `table1`, `gtsummary`, `skimr`, and `stats`.
+
+Lastly, I strongly believe in the principles of reproducible research, and I advocate for it by using `Quarto` and `RMarkdown`.
+
+
+
+
+

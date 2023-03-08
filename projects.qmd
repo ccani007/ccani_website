@@ -1,0 +1,48 @@
+---
+title: "Current Projects"
+---
+
+## Understanding Negative Affect in Adults
+
+::: columns
+::: {.column width="55%"}
+Currently I am working in a publication that is looking at...
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](img/)
+:::
+:::
+
+## The effects of natural disasters and suicidality
+
+::: columns
+::: {.column width="40%"}
+![](images/Sales_Dashboard_shiny_flex.jpg)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+DESCRIBE
+:::
+:::
+
+## Dissertation
+
+::: columns
+::: {.column width="55%"}
+Describe
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](images/clusters.png)
+:::
+:::
