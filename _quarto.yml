@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Catalina Cañizares"
@@ -19,5 +20,3 @@ format:
 
 editor: visual
 
-execute:
-  freeze: auto
