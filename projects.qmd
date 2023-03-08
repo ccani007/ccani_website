@@ -17,7 +17,7 @@ Currently I am working in a publication that aims to examine the extent to which
 :::
 :::
 
-## The effect of natural disasters and suicidality
+## The Impact of Mass Casualty Events on Adolescent Suicidality
 
 ::: columns
 ::: {.column width="40%"}
@@ -36,7 +36,7 @@ This project seeks to address the inconsistent research findings surrounding the
 
 ::: columns
 ::: {.column width="55%"}
-This project is a sub-project of *The effect of natural disasters and suicidality*, and aims to merge three different datasets - Emergency Events Database (EM-DAT), Global Terrorism Database (GTD), and Federal Emergency Management Agency (FEMA) - into a set of relational databases in the fifth normal form. The merging process is based on data equivalence criteria, and the creation of this R Package takes into account the lack of consistency between the three datasets in determining the reported event type.
+This project is a sub-project of *The Impact of Mass Casualty Events on Adolescent Suicidality*, and aims to merge three different datasets - Emergency Events Database (EM-DAT), Global Terrorism Database (GTD), and Federal Emergency Management Agency (FEMA) - into a set of relational databases in the fifth normal form. The merging process is based on data equivalence criteria, and the creation of this R Package takes into account the lack of consistency between the three datasets in determining the reported event type.
 :::
 
 ::: {.column width="5%"}
@@ -58,6 +58,34 @@ This project is a sub-project of *The effect of natural disasters and suicidalit
 :::
 
 ::: {.column width="55%"}
-This project is a sub-project of "The effect of natural disasters and suicidality" and its goal is to create a comprehensive R package containing the YRBS data for streamlined analysis. While the CDC website allows downloading of the data, the process can be lengthy, particularly when using the SPSS route. With this package, all the data will be conveniently located in one place and organized in a fifth normal form. Additionally, useful functions will be developed to allow for efficient interaction with the data. As the project is still under construction, it is currently only available through my  [![](img/github.svg)](https://github.com/ccani007/tidyYRBS) repository.
+This project is a sub-project of *The Impact of Mass Casualty Events on Adolescent Suicidality* and its goal is to create a comprehensive R package containing the YRBS data for streamlined analysis. While the CDC website allows downloading of the data, the process can be lengthy, particularly when using the SPSS route. With this package, all the data will be conveniently located in one place and organized in a fifth normal form. Additionally, useful functions will be developed to allow for efficient interaction with the data. As the project is still under construction, it is currently only available through my  [![](img/github.svg)](https://github.com/ccani007/tidyYRBS) repository.
 :::
 :::
+
+## Dissertation - *Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students*
+
+::: columns
+::: {.column width="40%"}
+![](img/dissertation.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+As of December 2022, my research proposal on adolescent suicide morbidity has been approved, and I am currently focused on building the code to analyze the data. My research aims are:
+
+1. Identify critical risk factors for adolescent suicide morbidity from a set of 99 risk behavior predictors, using machine learning classification algorithms.
+
+2. Identify the best machine learning methodology for classifying adolescents who have attempted and considered suicide, based on performance measures such as the Receiver Operating Characteristic Curve, overall accuracy, and the Kappa value.
+
+3. Compare the performance of an a priori-determined model with models informed by feature selection from LASSO (least absolute shrinkage and selection operator method).
+
+4. Investigate whether there are differences in the critical risk factors for suicide ideation and suicide attempts.
+
+I am using tidymodels to build the code for this analysis, and I am excited to share my findings once the study is complete. 
+
+You can view the slides to my research proposal by clicking here! `r emo::ji("eyes")` 
+:::
+:::
+

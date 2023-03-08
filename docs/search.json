@@ -4,7 +4,7 @@
     "href": "teaching.html",
     "title": "Teaching Resources",
     "section": "",
-    "text": "👓 My goal is to continue creating interactive slides and other resources that can be used to enhance learning and knowledge-sharing worldwide.\n\n\n\nContent\nType of material\nPresented to\nWhere\n\n\n\n\nstringr and Regular Expressions\nSlides\nAdvanced R class\nFlorida International University\n\n\nstringr and Regular Expressions\nLab\nAdvanced R class\nFlorida International University\n\n\nRMarkdown for Reproducible Reports\nSlides\nAdvanced R class\nFlorida International University\n\n\nQuarto for Reproducible Reports\nSlides\nSWWR 27TH Annual Conference\nPhoenix, AZ"
+    "text": "🕶 My goal is to continue creating interactive slides and other resources that can be used to enhance learning and knowledge-sharing worldwide.\n\n\n\nContent\nType of material\nPresented to\nWhere\n\n\n\n\nstringr and Regular Expressions\nSlides\nAdvanced R class\nFlorida International University\n\n\nstringr and Regular Expressions\nLab\nAdvanced R class\nFlorida International University\n\n\nRMarkdown for Reproducible Reports\nSlides\nAdvanced R class\nFlorida International University\n\n\nQuarto for Reproducible Reports\nSlides\nSWWR 27TH Annual Conference\nPhoenix, AZ"
   },
   {
     "objectID": "projects.html",
@@ -14,25 +14,32 @@
     "text": "Currently I am working in a publication that aims to examine the extent to which cognitive schemas, attributional style, experiences of child adversity, and lifestyle factors such as alcohol, drug use, and physical activity are risk factors can accurately predict Negative Affect in a sample of both depressed and non-depressed adults in Colombia 🇨🇴 using regression trees."
   },
   {
-    "objectID": "projects.html#the-effect-of-natural-disasters-and-suicidality",
-    "href": "projects.html#the-effect-of-natural-disasters-and-suicidality",
+    "objectID": "projects.html#the-impact-of-mass-casualty-events-on-adolescent-suicidality",
+    "href": "projects.html#the-impact-of-mass-casualty-events-on-adolescent-suicidality",
     "title": "Current Projects",
-    "section": "The effect of natural disasters and suicidality",
-    "text": "The effect of natural disasters and suicidality\n\n\n\n\n\n\nThis project seeks to address the inconsistent research findings surrounding the correlation between mass casualties and suicide morbidity. Our goal is to contribute to the existing literature on the mental health effects of natural disasters, specifically by investigating whether mass casualty events increase a young person’s susceptibility to suicidal ideation and planning. To achieve this objective, we will examine the relationship between mass casualty events reported across the United States 🇺🇸 from 1990 to 2019 and data from the Youth Risk Behavior Survey (YRBS) collected during the same time frame, with a focus on school districts."
+    "section": "The Impact of Mass Casualty Events on Adolescent Suicidality",
+    "text": "The Impact of Mass Casualty Events on Adolescent Suicidality\n\n\n\n\n\n\nThis project seeks to address the inconsistent research findings surrounding the correlation between mass casualties and suicide morbidity. Our goal is to contribute to the existing literature on the mental health effects of natural disasters, specifically by investigating whether mass casualty events increase a young person’s susceptibility to suicidal ideation and planning. To achieve this objective, we will examine the relationship between mass casualty events reported across the United States 🇺🇸 from 1990 to 2019 and data from the Youth Risk Behavior Survey (YRBS) collected during the same time frame, with a focus on school districts."
   },
   {
     "objectID": "projects.html#tidydisasters",
     "href": "projects.html#tidydisasters",
     "title": "Current Projects",
     "section": "tidyDisasters",
-    "text": "tidyDisasters\n\n\nThis project is a sub-project of The effect of natural disasters and suicidality, and aims to merge three different datasets - Emergency Events Database (EM-DAT), Global Terrorism Database (GTD), and Federal Emergency Management Agency (FEMA) - into a set of relational databases in the fifth normal form. The merging process is based on data equivalence criteria, and the creation of this R Package takes into account the lack of consistency between the three datasets in determining the reported event type."
+    "text": "tidyDisasters\n\n\nThis project is a sub-project of The Impact of Mass Casualty Events on Adolescent Suicidality, and aims to merge three different datasets - Emergency Events Database (EM-DAT), Global Terrorism Database (GTD), and Federal Emergency Management Agency (FEMA) - into a set of relational databases in the fifth normal form. The merging process is based on data equivalence criteria, and the creation of this R Package takes into account the lack of consistency between the three datasets in determining the reported event type."
   },
   {
     "objectID": "projects.html#tidyyrbs",
     "href": "projects.html#tidyyrbs",
     "title": "Current Projects",
     "section": "tidyYRBS",
-    "text": "tidyYRBS\n\n\n\n\n\n\nThis project is a sub-project of “The effect of natural disasters and suicidality” and its goal is to create a comprehensive R package containing the YRBS data for streamlined analysis. While the CDC website allows downloading of the data, the process can be lengthy, particularly when using the SPSS route. With this package, all the data will be conveniently located in one place and organized in a fifth normal form. Additionally, useful functions will be developed to allow for efficient interaction with the data. As the project is still under construction, it is currently only available through my  repository."
+    "text": "tidyYRBS\n\n\n\n\n\n\nThis project is a sub-project of The Impact of Mass Casualty Events on Adolescent Suicidality and its goal is to create a comprehensive R package containing the YRBS data for streamlined analysis. While the CDC website allows downloading of the data, the process can be lengthy, particularly when using the SPSS route. With this package, all the data will be conveniently located in one place and organized in a fifth normal form. Additionally, useful functions will be developed to allow for efficient interaction with the data. As the project is still under construction, it is currently only available through my  repository."
+  },
+  {
+    "objectID": "projects.html#dissertation---comparing-supervised-machine-learning-classification-methods-to-identify-risk-factors-for-suicide-morbidity-among-usa-high-school-students",
+    "href": "projects.html#dissertation---comparing-supervised-machine-learning-classification-methods-to-identify-risk-factors-for-suicide-morbidity-among-usa-high-school-students",
+    "title": "Current Projects",
+    "section": "Dissertation - Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students",
+    "text": "Dissertation - Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students\n\n\n\n\n\n\nAs of December 2022, my research proposal on adolescent suicide morbidity has been approved, and I am currently focused on building the code to analyze the data. My research aims are:\n\nIdentify critical risk factors for adolescent suicide morbidity from a set of 99 risk behavior predictors, using machine learning classification algorithms.\nIdentify the best machine learning methodology for classifying adolescents who have attempted and considered suicide, based on performance measures such as the Receiver Operating Characteristic Curve, overall accuracy, and the Kappa value.\nCompare the performance of an a priori-determined model with models informed by feature selection from LASSO (least absolute shrinkage and selection operator method).\nInvestigate whether there are differences in the critical risk factors for suicide ideation and suicide attempts.\n\nI am using tidymodels to build the code for this analysis, and I am excited to share my findings once the study is complete.\nYou can view the slides to my research proposal by clicking here! 👀"
   },
   {
     "objectID": "index.html",
