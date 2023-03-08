@@ -1,0 +1,14 @@
+---
+title: "Presentations"
+---
+
+aqui pondria los links de mis presentaciones
+
+```{r}
+data(iris)
+library(tidyverse)
+ggplot(iris, aes(x = Sepal.Length)) +
+  geom_bar()
+
+```
+
