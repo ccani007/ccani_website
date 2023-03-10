@@ -4,7 +4,11 @@
     "href": "teaching.html",
     "title": "Teaching Resources",
     "section": "",
+<<<<<<< HEAD
     "text": "😎 My goal is to continue creating interactive slides and other resources that can be used to enhance learning and knowledge-sharing worldwide.\n\n\n\nContent\nType of material\nPresented to\nWhere\n\n\n\n\nstringr and Regular Expressions\nSlides\nAdvanced R class\nFlorida International University\n\n\nstringr and Regular Expressions\nLab\nAdvanced R class\nFlorida International University\n\n\nRMarkdown for Reproducible Reports\nSlides\nAdvanced R class\nFlorida International University\n\n\nQuarto for Reproducible Reports\nSlides\nSWWR 27TH Annual Conference\nPhoenix, AZ"
+=======
+    "text": "I have developed a collection of educational materials that I’m excited to share with you.\n😄 Best of all, these materials are completely free to use!\n👀 Whether you’re a student, educator, or simply interested in expanding your knowledge, I invite you to explore the resources I’ve created.\n👓 My goal is to continue creating interactive slides and other resources that can be used to enhance learning and knowledge-sharing worldwide.\n\n\n\nContent\nType of material\nPresented to\nWhere\n\n\n\n\nstringr and Regular Expressions\nSlides\nAdvanced R class\nFlorida International University\n\n\nstringr and Regular Expressions\nLab\nAdvanced R class\nFlorida International University\n\n\nRMarkdown for Reproducible Reports\nSlides\nAdvanced R class\nFlorida International University\n\n\nQuarto for Reproducible Reports\nSlides\nSWWR 27TH Annual Conference\nPhoenix, AZ"
+>>>>>>> 695c28a1cc91cf8301515566dfef0bd3d29bdf9a
   },
   {
     "objectID": "projects.html",
@@ -39,13 +43,20 @@
     "href": "projects.html#dissertation---comparing-supervised-machine-learning-classification-methods-to-identify-risk-factors-for-suicide-morbidity-among-usa-high-school-students",
     "title": "Current Projects",
     "section": "Dissertation - Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students",
-    "text": "Dissertation - Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students\n\n\n\n\n\n\nAs of December 2022, my research proposal on adolescent suicide morbidity has been approved, and I am currently focused on building the code to analyze the data. My research aims are:\n\nIdentify critical risk factors for adolescent suicide morbidity from a set of 99 risk behavior predictors, using machine learning classification algorithms.\nIdentify the best machine learning methodology for classifying adolescents who have attempted and considered suicide, based on performance measures such as the Receiver Operating Characteristic Curve, overall accuracy, and the Kappa value.\nCompare the performance of an a priori-determined model with models informed by feature selection from LASSO (least absolute shrinkage and selection operator method).\nInvestigate whether there are differences in the critical risk factors for suicide ideation and suicide attempts.\n\nI am using tidymodels to build the code for this analysis, and I am excited to share my findings once the study is complete.\nYou can view the slides to my research proposal by clicking here! 👀"
+    "text": "Dissertation - Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students\n\n\nAs of December 2022, my research proposal on adolescent suicide morbidity has been approved, and I am currently focused on building the code to analyze the data.\nYou can view the slides to my research proposal by clicking here! 👀"
+  },
+  {
+    "objectID": "projects.html#uncovering-the-leading-predictors-of-adolescent-hopelessness-through-supervised-machine-learning-classification-algorithms",
+    "href": "projects.html#uncovering-the-leading-predictors-of-adolescent-hopelessness-through-supervised-machine-learning-classification-algorithms",
+    "title": "Current Projects",
+    "section": "Uncovering the Leading Predictors of Adolescent Hopelessness Through Supervised Machine Learning Classification Algorithms",
+    "text": "Uncovering the Leading Predictors of Adolescent Hopelessness Through Supervised Machine Learning Classification Algorithms\n\n\n\n\n\n\nFeelings of hopelessness in adolescents have been consistently linked to mental health outcomes such as depression and suicidality, including suicide ideation and attempts. In recognition of its importance, hopelessness has been added to the DSM and is considered within risk-factor guidelines and integrated into structured suicide-risk assessments. Despite this, research exploring risk factors that increase the likelihood of adolescents feeling hopeless is scarce and hopelessness has acquired secondary consideration in literature. Therefore I am working in a publication that aims to address this gap by investigating the effect of intra and interpersonal risk and protective factors on adolescent hopelessness."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Catalina Cañizares",
     "section": "",
-    "text": "My passion lies in data science and its application to mental health-related issues. Recently, I have broadened my skill set by working extensively in both R and Python environments. My focus primarily lies in cleaning, understanding, and merging datasets, and conducting comprehensive data exploration analysis using an array of packages such as dplyr, ggplot2, purr, stringr, table1, gtsummary, skimr, and stats.\nLastly, I strongly believe in the principles of reproducible research, and I advocate for it by using Quarto and RMarkdown."
+    "text": "As a PhD candidate in social welfare, my primary objective is to advance the field of adolescent suicide prevention through groundbreaking research. Utilizing machine learning classification techniques, I aim to identify critical risk factors for adolescent suicide morbidity and make a significant impact in this area of study.\nMy passion lies in data science and its application to mental health-related issues. Recently, I have broadened my skill set by working extensively in both R and Python environments. My focus primarily lies in cleaning, understanding, and merging datasets, and conducting comprehensive data exploration analysis using an array of packages such as dplyr, ggplot2, purr, stringr, table1, gtsummary, skimr, and stats.\nLastly, I strongly believe in the principles of reproducible research, and I advocate for it by using Quarto and RMarkdown."
   }
 ]
