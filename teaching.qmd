@@ -11,7 +11,7 @@ I have developed a collection of educational materials that I'm excited to share
 
 | Content                            | Type of material | Presented to                | Where                            |
 | ---------------------------------- | ---------------- | --------------------------- | -------------------------------- |
-| `stringr` and Regular Expressions    | [Slides](https://rpubs.com/ccani007/1002273)     | Advanced R class            | Florida International University |
+| `stringr` and Regular Expressions    | [Slides](https://ccani007.github.io/stringr_slides/#1)     | Advanced R class            | Florida International University |
 | `stringr` and Regular Expressions    | [Lab](https://lcj9js-catalina-canizares.shinyapps.io/lab_str/?_ga=2.91765914.149069591.1678297151-1765971331.1678297151)              | Advanced R class            | Florida International University |
-| `RMarkdown` for Reproducible Reports | [Slides](https://rpubs.com/ccani007/advancedR_rmarkdown)     | Advanced R class            | Florida International University |
+| `RMarkdown` for Reproducible Reports | [Slides](https://ccani007.github.io/advancedR_Slides/#1)     | Advanced R class            | Florida International University |
 | `Quarto` for Reproducible Reports                             | [Slides](https://rpubs.com/ccani007/991805)     | [SWWR 27TH Annual Conference](https://sswr.confex.com/sswr/2023/webprogram/Session13742.html) | Phoenix, AZ                      |
