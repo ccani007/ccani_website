@@ -81,7 +81,7 @@ You can view the slides to my research proposal by clicking  [here!](https://rpu
 :::
 
 
-## Uncovering the Leading Predictors of Adolescent Hopelessness Through Supervised Machine Learning Classification Algorithms
+## Persistent Sadness and Hopelessness in Youth: A Supervised Machine Learning Classification Approach to Identify Risk Factors
 ::: columns
 ::: {.column width="40%"}
 ![](img/hopeless.png)
@@ -95,3 +95,33 @@ Feelings of hopelessness in adolescents have been consistently linked to mental 
 :::
 :::
 
+## Understanding Adolescent Alcohol Consumption: A Decision Tree Analysis Using the YRBSS 2019 Data
+
+::: columns
+::: {.column width="55%"}
+As part of my ongoing passion to help prevent adolescents from engaging in self-harm and promote their success as adults, I am currently involved in a project aimed at understanding the risk factors associated with drinking behaviors. Although this project is in its early stages, our team has already developed a decision tree to identify the primary risk factors that contribute to alcohol consumption among US adolescents. These risk factors include using vaping products, engaging in risky sexual behaviors, using drugs, and others.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](img/alcohol_tree.png)
+:::
+:::
+
+## Exploring Gratitude in Children: Evaluating an Instrument to Measure Factors and Impact on Well-Being
+::: columns
+::: {.column width="40%"}
+![](img/Gratitude.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+As my research primarily focuses on negative emotions such as depression, hopelessness, negative affect, and suicide, I strive to maintain a balanced approach by exploring positive emotions as well. Currently, I am conducting a project that delves into gratitude in children, which has been found to be a significant factor in fostering resilience and building positive social relationships.
+
+Our project aims to evaluate an instrument that measures gratitude in children. To gather empirical evidence about its underlying factors, we are performing both confirmatory and exploratory factor analyses on a sample of 503 children from Colombia `r emo::ji("colombia")`. By doing so, we aim to gain a comprehensive understanding of the factors that contribute to gratitude in children and its potential impact on their overall well-being.
+:::
+:::

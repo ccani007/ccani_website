@@ -4,7 +4,7 @@
     "href": "teaching.html",
     "title": "Teaching Resources",
     "section": "",
-    "text": "I have developed a collection of educational materials that I’m excited to share with you.\n😄 Best of all, these materials are completely free to use!\n👀 Whether you’re a student, educator, or simply interested in expanding your knowledge, I invite you to explore the resources I’ve created.\n😎 My goal is to continue creating interactive slides and other resources that can be used to enhance learning and knowledge-sharing worldwide.\n\n\n\nContent\nType of material\nPresented to\nWhere\n\n\n\n\nstringr and Regular Expressions\nSlides\nAdvanced R class\nFlorida International University\n\n\nstringr and Regular Expressions\nLab\nAdvanced R class\nFlorida International University\n\n\nRMarkdown for Reproducible Reports\nSlides\nAdvanced R class\nFlorida International University\n\n\nQuarto for Reproducible Reports\nSlides\nSWWR 27TH Annual Conference\nPhoenix, AZ"
+    "text": "I have developed a collection of educational materials that I’m excited to share with you.\n😄 Best of all, these materials are completely free to use!\n👀 Whether you’re a student, educator, or simply interested in expanding your knowledge, I invite you to explore the resources I’ve created.\n🕶 My goal is to continue creating interactive slides and other resources that can be used to enhance learning and knowledge-sharing worldwide.\n\n\n\nContent\nType of material\nPresented to\nWhere\n\n\n\n\nstringr and Regular Expressions\nSlides\nAdvanced R class\nFlorida International University\n\n\nstringr and Regular Expressions\nLab\nAdvanced R class\nFlorida International University\n\n\nRMarkdown for Reproducible Reports\nSlides\nAdvanced R class\nFlorida International University\n\n\nQuarto for Reproducible Reports\nSlides\nSWWR 27TH Annual Conference\nPhoenix, AZ"
   },
   {
     "objectID": "projects.html",
@@ -42,11 +42,25 @@
     "text": "Dissertation - Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students\n\n\nAs of December 2022, my research proposal on adolescent suicide morbidity has been approved, and I am currently focused on building the code to analyze the data.\nYou can view the slides to my research proposal by clicking here! 👀"
   },
   {
-    "objectID": "projects.html#uncovering-the-leading-predictors-of-adolescent-hopelessness-through-supervised-machine-learning-classification-algorithms",
-    "href": "projects.html#uncovering-the-leading-predictors-of-adolescent-hopelessness-through-supervised-machine-learning-classification-algorithms",
+    "objectID": "projects.html#persistent-sadness-and-hopelessness-in-youth-a-supervised-machine-learning-classification-approach-to-identify-risk-factors",
+    "href": "projects.html#persistent-sadness-and-hopelessness-in-youth-a-supervised-machine-learning-classification-approach-to-identify-risk-factors",
     "title": "Current Projects",
-    "section": "Uncovering the Leading Predictors of Adolescent Hopelessness Through Supervised Machine Learning Classification Algorithms",
-    "text": "Uncovering the Leading Predictors of Adolescent Hopelessness Through Supervised Machine Learning Classification Algorithms\n\n\n\n\n\n\nFeelings of hopelessness in adolescents have been consistently linked to mental health outcomes such as depression and suicidality, including suicide ideation and attempts. In recognition of its importance, hopelessness has been added to the DSM and is considered within risk-factor guidelines and integrated into structured suicide-risk assessments. Despite this, research exploring risk factors that increase the likelihood of adolescents feeling hopeless is scarce and hopelessness has acquired secondary consideration in literature. Therefore I am working in a publication that aims to address this gap by investigating the effect of intra and interpersonal risk and protective factors on adolescent hopelessness."
+    "section": "Persistent Sadness and Hopelessness in Youth: A Supervised Machine Learning Classification Approach to Identify Risk Factors",
+    "text": "Persistent Sadness and Hopelessness in Youth: A Supervised Machine Learning Classification Approach to Identify Risk Factors\n\n\n\n\n\n\nFeelings of hopelessness in adolescents have been consistently linked to mental health outcomes such as depression and suicidality, including suicide ideation and attempts. In recognition of its importance, hopelessness has been added to the DSM and is considered within risk-factor guidelines and integrated into structured suicide-risk assessments. Despite this, research exploring risk factors that increase the likelihood of adolescents feeling hopeless is scarce and hopelessness has acquired secondary consideration in literature. Therefore I am working in a publication that aims to address this gap by investigating the effect of intra and interpersonal risk and protective factors on adolescent hopelessness."
+  },
+  {
+    "objectID": "projects.html#understanding-adolescent-alcohol-consumption-a-decision-tree-analysis-using-the-yrbss-2019-data",
+    "href": "projects.html#understanding-adolescent-alcohol-consumption-a-decision-tree-analysis-using-the-yrbss-2019-data",
+    "title": "Current Projects",
+    "section": "Understanding Adolescent Alcohol Consumption: A Decision Tree Analysis Using the YRBSS 2019 Data",
+    "text": "Understanding Adolescent Alcohol Consumption: A Decision Tree Analysis Using the YRBSS 2019 Data\n\n\nAs part of my ongoing passion to help prevent adolescents from engaging in self-harm and promote their success as adults, I am currently involved in a project aimed at understanding the risk factors associated with drinking behaviors. Although this project is in its early stages, our team has already developed a decision tree to identify the primary risk factors that contribute to alcohol consumption among US adolescents. These risk factors include using vaping products, engaging in risky sexual behaviors, using drugs, and others."
+  },
+  {
+    "objectID": "projects.html#exploring-gratitude-in-children-evaluating-an-instrument-to-measure-factors-and-impact-on-well-being",
+    "href": "projects.html#exploring-gratitude-in-children-evaluating-an-instrument-to-measure-factors-and-impact-on-well-being",
+    "title": "Current Projects",
+    "section": "Exploring Gratitude in Children: Evaluating an Instrument to Measure Factors and Impact on Well-Being",
+    "text": "Exploring Gratitude in Children: Evaluating an Instrument to Measure Factors and Impact on Well-Being\n\n\n\n\n\n\nAs my research primarily focuses on negative emotions such as depression, hopelessness, negative affect, and suicide, I strive to maintain a balanced approach by exploring positive emotions as well. Currently, I am conducting a project that delves into gratitude in children, which has been found to be a significant factor in fostering resilience and building positive social relationships.\nOur project aims to evaluate an instrument that measures gratitude in children. To gather empirical evidence about its underlying factors, we are performing both confirmatory and exploratory factor analyses on a sample of 503 children from Colombia 🇨🇴. By doing so, we aim to gain a comprehensive understanding of the factors that contribute to gratitude in children and its potential impact on their overall well-being."
   },
   {
     "objectID": "index.html",
