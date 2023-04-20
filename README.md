@@ -8,5 +8,5 @@ I take great pleasure in creating and maintaining it! As a fan of open-source sc
 
 While I am just beginning my career, I aim to continue building on the knowledge I have acquired. As a proponent of a teaching philosophy that emphasizes sharing and collaboration, I will always be open to sharing my work and experiences. So, have fun exploring how I built my website! 
 
-!()[img/website.png]
+![](img/website.png)
 
