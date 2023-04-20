@@ -125,3 +125,21 @@ As my research primarily focuses on negative emotions such as depression, hopele
 Our project aims to evaluate an instrument that measures gratitude in children. To gather empirical evidence about its underlying factors, we are performing both confirmatory and exploratory factor analyses on a sample of 503 children from Colombia `r emo::ji("colombia")`. By doing so, we aim to gain a comprehensive understanding of the factors that contribute to gratitude in children and its potential impact on their overall well-being.
 :::
 :::
+
+
+## World Trade Center Health Study in Florida
+
+::: columns
+::: {.column width="55%"}
+I currently serve as the research coordinator for a pilot study investigating the physical and mental health of first responders and survivors of the 9/11 attacks residing in Florida. Our team is currently in the first phase of the project, where we are working to collect as much data as possible.
+
+In my role, I have focused on coordination and strategic planning, and have contributed several ideas to the project. One of these ideas was to develop a website that could provide comprehensive information to potential participants and present a welcoming and aesthetically pleasing interface. To achieve this goal, I collaborated with two colleagues from FIU to design and develop a beautiful website. I invite you to visit the [website](https://wtcfl.fiu.edu/) and explore its content.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](img/911.png)
+:::
+:::
