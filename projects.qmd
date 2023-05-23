@@ -6,7 +6,7 @@ title: "Current Projects"
 
 ::: columns
 ::: {.column width="55%"}
-Currently I am working in a publication that aims to examine the extent to which cognitive schemas, attributional style, experiences of child adversity, and lifestyle factors such as alcohol, drug use, and physical activity are risk factors can accurately predict Negative Affect in a sample of both depressed and non-depressed adults in Colombia `r emo::ji("colombia")` using regression trees. Check out the code [![](img/github.svg)](https://github.com/ccani007/NA_supplementary_code)
+Currently I am working in a publication that aims to examine the extent to which cognitive schemas, attributional style, experiences of child adversity, and lifestyle factors such as alcohol, drug use, and physical activity are risk factors can accurately predict Negative Affect in a sample of both depressed and non-depressed adults in Colombia `r emo::ji("colombia")` using regression trees. 
 :::
 
 ::: {.column width="5%"}
