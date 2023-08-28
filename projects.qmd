@@ -6,7 +6,7 @@ title: "Current Projects"
 
 ::: columns
 ::: {.column width="55%"}
-Currently I am working in a publication that aims to examine the extent to which cognitive schemas, attributional style, experiences of child adversity, and lifestyle factors such as alcohol, drug use, and physical activity are risk factors can accurately predict Negative Affect in a sample of both depressed and non-depressed adults in Colombia `r emo::ji("colombia")` using regression trees. 
+I'm waiting for BMC psychology to review our work in a publication that aims to examine the extent to which cognitive schemas, attributional style, experiences of child adversity, and lifestyle factors such as alcohol, drug use, and physical activity are risk factors can accurately predict Negative Affect in a sample of both depressed and non-depressed adults in Colombia `r emo::ji("colombia")` using regression trees. Take a look [here](https://www.researchsquare.com/article/rs-2978274/v1) 
 :::
 
 ::: {.column width="5%"}
@@ -17,51 +17,19 @@ Currently I am working in a publication that aims to examine the extent to which
 :::
 :::
 
-## The Impact of Mass Casualty Events on Adolescent Suicidality
-
+## Persistent Sadness and Hopelessness in Youth: A Supervised Machine Learning Classification Approach to Identify Risk Factors
 ::: columns
 ::: {.column width="40%"}
-![](img/disasters.jpg)
+![](img/hopeless.png)
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="55%"}
-This project seeks to address the inconsistent research findings surrounding the correlation between mass casualties and suicide morbidity. Our goal is to contribute to the existing literature on the mental health effects of natural disasters, specifically by investigating whether mass casualty events increase a young person's susceptibility to suicidal ideation and planning. To achieve this objective, we will examine the relationship between mass casualty events reported across the United States `r emo::ji("america")` from 1990 to 2019 and data from the Youth Risk Behavior Survey (YRBS) collected during the same time frame, with a focus on school districts.
+Feelings of hopelessness in adolescents have been consistently linked to mental health outcomes such as depression and suicidality, including suicide ideation and attempts. In recognition of its importance, hopelessness has been added to the DSM and is considered within risk-factor guidelines and integrated into structured suicide-risk assessments. Despite this, research exploring risk factors that increase the likelihood of adolescents feeling hopeless is scarce and hopelessness has acquired secondary consideration in literature. Therefore I am working in a publication that aims to address this gap by investigating the effect of intra and interpersonal risk and protective factors on adolescent hopelessness. Check out the poster [![](img/github.svg)](https://github.com/ccani007/hopelessness_poster.git)
 :::
 :::
-
-## [`tidyDisasters`](https://ccani007.github.io/tidyDisasters/)
-
-::: columns
-::: {.column width="55%"}
-This project is a sub-project of *The Impact of Mass Casualty Events on Adolescent Suicidality*, and aims to merge three different datasets - Emergency Events Database (EM-DAT), Global Terrorism Database (GTD), and Federal Emergency Management Agency (FEMA) - into a set of relational databases in the fifth normal form. The merging process is based on data equivalence criteria, and the creation of this R Package takes into account the lack of consistency between the three datasets in determining the reported event type.
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="40%"}
-![](img/tidydisasters.png)
-:::
-:::
-
-## [`tidyYRBS`](https://github.com/ccani007/tidyYRBS)
-
-::: columns
-::: {.column width="40%"}
-![](img/tidyYrbs.png)
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="55%"}
-This project is a sub-project of *The Impact of Mass Casualty Events on Adolescent Suicidality* and its goal is to create a comprehensive R package containing the YRBS data for streamlined analysis. While the CDC website allows downloading of the data, the process can be lengthy, particularly when using the SPSS route. With this package, all the data will be conveniently located in one place and organized in a fifth normal form. Additionally, useful functions will be developed to allow for efficient interaction with the data. As the project is still under construction, it is currently only available through my  [![](img/github.svg)](https://github.com/ccani007/tidyYRBS) repository.
-:::
-:::
-
 
 ## Dissertation - Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students
 
@@ -81,17 +49,18 @@ You can view the slides to my research proposal by clicking  [here!](https://rpu
 :::
 
 
-## Persistent Sadness and Hopelessness in Youth: A Supervised Machine Learning Classification Approach to Identify Risk Factors
+## dissertationData: An Accessible R Package for Exploring 2019 and 2021 YRBS Data
 ::: columns
 ::: {.column width="40%"}
-![](img/hopeless.png)
+![](img/dissertationData.png)
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="55%"}
-Feelings of hopelessness in adolescents have been consistently linked to mental health outcomes such as depression and suicidality, including suicide ideation and attempts. In recognition of its importance, hopelessness has been added to the DSM and is considered within risk-factor guidelines and integrated into structured suicide-risk assessments. Despite this, research exploring risk factors that increase the likelihood of adolescents feeling hopeless is scarce and hopelessness has acquired secondary consideration in literature. Therefore I am working in a publication that aims to address this gap by investigating the effect of intra and interpersonal risk and protective factors on adolescent hopelessness. Check out the poster [![](img/github.svg)](https://github.com/ccani007/hopelessness_poster.git)
+
+My dissertation is built upon data gathered from the 2019 and 2021 Youth Risk Behavior Surveys (YRBS). To simplify access to this data, I've created an R package that is available for public use. This package provides a user-friendly way for others to explore and utilize the valuable information collected from these surveys. Check out the repository [![](img/github.svg)](https://github.com/ccani007/dissertationData)
 :::
 :::
 
