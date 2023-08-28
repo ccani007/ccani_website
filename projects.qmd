@@ -112,3 +112,20 @@ In my role, I have focused on coordination and strategic planning, and have cont
 ![](img/911.png)
 :::
 :::
+
+
+## Exploring Gratitude in Children: Evaluating an Instrument to Measure Factors and Impact on Well-Being
+::: columns
+::: {.column width="40%"}
+![](img/mentalhealthmatters.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+
+I hold a deep passion for the wellbeing and mental health of disaster first responders. My research journey is driven by the goal of equipping these invaluable individuals with resources that guide them to a wealth of information and relevant referrals. In collaboration with Professor Mark Macgowan, we have come together to establish a comprehensive website. This platform is meticulously designed to serve as a valuable space for disaster first responders, offering a hub of essential information and connections to appropriate resources. I invite you to take a closer look at our efforts by visiting the website: [Mental Health Matters for First Responders](https://ccani007.github.io/MentalHealthMatters/). 
+:::
+:::
+
