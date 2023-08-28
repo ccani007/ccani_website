@@ -3,7 +3,10 @@ project:
   output-dir: docs
 
 website:
+  google-analytics: "G-KWC93SV91C" 
+  cookie-consent: true
   title: "Catalina Cañizares"
+  site-url: https://ccani007.github.io/ccani_website/
   navbar:
     left:
       - href: index.qmd
@@ -24,10 +27,4 @@ format:
     css: styles.css
     toc: true
     
-website: 
-  google-analytics: "G-KWC93SV91C" 
-  cookie-consent: true
-  title: Catalina Canizares
-  site-url: https://ccani007.github.io/ccani_website/
-  description: "Catalina's Webiste"
   
