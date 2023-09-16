@@ -15,8 +15,6 @@ website:
       - projects.qmd
       - teaching.qmd
   page-footer:
-    left: |
-      <span class="container"><strong>Made with [Posit Quarto](https://quarto.org/){target="_blank"}</strong></span>
     right: |
       <span class="container"><strong>[Github Repo](https://github.com/ccani007/ccani_website){target="_blank"}</strong></span>
     background: "#2c3c54"
