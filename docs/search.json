@@ -68,5 +68,12 @@
     "title": "Catalina Cañizares",
     "section": "",
     "text": "Hi there!\nI’m a passionate data scientist and a Ph.D. candidate in Social Welfare, dedicated to using data to gain insights into emotional disorders. I’ve been delving deep into data analysis, especially with R. My focus? Making data understandable and useful.\nI specialize in cleaning and merging data, and I love exploring data with tools like tidyverse, table1, gtsummary, and skimr among others. I’m also interested in using Machine Learning models, with the tidymodels package, to better understand emotional disorders.\nPlus, I’m all about keeping things clear and reproducible by using tools such as Quarto and RMarkdown. That means you can trust my work, and it can be easily followed by others."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "I embed a current version of my CV below. You can also download the PDF here."
   }
 ]

@@ -6,15 +6,15 @@ about:
   image-shape: round
   image-width: 15em
   links:
-    - icon: github
-      text: Github
-      href: https://github.com/ccani007
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/catalina-ca%C3%B1izares-escobar-2239114a/
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/catalinacaniza1?lang=en
+    # - icon: github
+    #   text: Github
+    #   href: https://github.com/ccani007
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://www.linkedin.com/in/catalina-ca%C3%B1izares-escobar-2239114a/
+    # - icon: twitter
+    #   text: Twitter
+    #   href: https://twitter.com/catalinacaniza1?lang=en
     - icon: envelope
       text: Contact me
       href: mailto:ccani007@fiu.edu

@@ -2,4 +2,6 @@
 title: "Resume"
 ---
 
-<iframe src="img/20230926_CV.pdf" width="100%" height="95%"></iframe>
+I embed a current version of my CV below. You can also download the [PDF here](https://github.com/ccani007/curriculum_vitae/blob/main/20230926_CV.pdf).
+
+<embed src="img/20230926_CV.pdf" type="application/pdf" width="100%" height="100%"></embed>
