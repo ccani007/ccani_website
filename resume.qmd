@@ -2,9 +2,4 @@
 title: "Resume"
 ---
 
-<div style="overflow:auto; width:100%; max-width:100%; height:500px;">
-  <object data="img/20230926_CV.pdf" type="application/pdf" style="width:100%; height:100%;">
-    <p>It appears you don't have a PDF plugin for this browser.
-       You can <a href="img/20230926_CV.pdf">click here to download the PDF file.</a></p>
-  </object>
-</div>
+<iframe src="img/20230926_CV.pdf" width="100%" height="95%"></iframe>

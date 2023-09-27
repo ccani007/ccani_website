@@ -8,21 +8,30 @@ website:
   title: "Catalina Cañizares"
   site-url: https://ccani007.github.io/ccani_website/
   navbar:
+    right:
+     - href: index.qmd
+       text: Home
+     - resume.qmd
+     - projects.qmd
+     - teaching.qmd
     left:
-      - href: index.qmd
-        text: Home
-      - resume.qmd
-      - projects.qmd
-      - teaching.qmd
+     - icon: github
+       href: https://github.com/ccani007
+     - icon: linkedin
+       href: https://www.linkedin.com/in/catalina-ca%C3%B1izares-escobar-2239114a/
+     - icon: twitter
+       href: https://twitter.com/catalinacaniza1?lang=en
   page-footer:
-    right: |
-      <span class="container"><strong>[Github Repo](https://github.com/ccani007/ccani_website){target="_blank"}</strong></span>
+    right: 
+     - icon: github
+     - href: https://github.com/ccani007/ccani_website
     background: "#2c3c54"
     
 format:
   html:
-    theme: flatly
-    css: styles.css
+    theme: 
+      - styles.scss
+    mainfont: "Kumbh Sans"
     toc: true
     
   
