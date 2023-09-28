@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Catalina Cañizares",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Resources",
     "section": "",
-    "text": "Hi there!\nI’m a passionate data scientist and a Ph.D. candidate in Social Welfare, dedicated to using data to gain insights into emotional disorders. I’ve been delving deep into data analysis, especially with R. My focus? Making data understandable and useful.\nI specialize in cleaning and merging data, and I love exploring data with tools like tidyverse, table1, gtsummary, and skimr among others. I’m also interested in using Machine Learning models, with the tidymodels package, to better understand emotional disorders.\nPlus, I’m all about keeping things clear and reproducible by using tools such as Quarto and RMarkdown. That means you can trust my work, and it can be easily followed by others."
+    "text": "😄 Best of all, these materials are completely free to use!\n👀 Whether you’re a student, educator, or simply interested in expanding your knowledge, I invite you to explore the resources I’ve created.\n🕶 My goal is to continue creating interactive slides and other resources that can be used to enhance learning and knowledge-sharing worldwide.\n\n\n\nContent\nType of material\nPresented to\nWhere\n\n\n\n\nstringr and Regular Expressions\nSlides\nAdvanced R class\nFlorida International University\n\n\nstringr and Regular Expressions\nLab\nAdvanced R class\nFlorida International University\n\n\nRMarkdown for Reproducible Reports\nSlides\nAdvanced R class\nFlorida International University\n\n\nQuarto for Reproducible Reports\nSlides\nSWWR 27TH Annual Conference\nPhoenix, AZ\n\n\nIntroduction to Machine Learning\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nIntroduction to tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nRegularization Techniques: Ridge, Lasso and Elastic Net using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nDecision Trees Using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nRandom Forest Using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nKNN Using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University"
   },
   {
     "objectID": "resume.html",
@@ -14,25 +14,11 @@
     "text": "I embed a current version of my CV below. You can also view the PDF here."
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching Resources",
-    "section": "",
-    "text": "I have developed a collection of educational materials that I’m excited to share with you.\nr emo::ji(\"smile\") Best of all, these materials are completely free to use!\nr emo::ji(\"eyes\") Whether you’re a student, educator, or simply interested in expanding your knowledge, I invite you to explore the resources I’ve created.\nr emo::ji(\"eyewear\") My goal is to continue creating interactive slides and other resources that can be used to enhance learning and knowledge-sharing worldwide.\n\n\n\nContent\nType of material\nPresented to\nWhere\n\n\n\n\nstringr and Regular Expressions\nSlides\nAdvanced R class\nFlorida International University\n\n\nstringr and Regular Expressions\nLab\nAdvanced R class\nFlorida International University\n\n\nRMarkdown for Reproducible Reports\nSlides\nAdvanced R class\nFlorida International University\n\n\nQuarto for Reproducible Reports\nSlides\nSWWR 27TH Annual Conference\nPhoenix, AZ\n\n\nIntroduction to Machine Learning\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nIntroduction to tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nRegularization Techniques: Ridge, Lasso and Elastic Net using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nDecision Trees Using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nRandom Forest Using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nKNN Using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Current Projects",
     "section": "",
-    "text": "I’m waiting for BMC psychology to review our work in a publication that aims to examine the extent to which cognitive schemas, attributional style, experiences of child adversity, and lifestyle factors such as alcohol, drug use, and physical activity are risk factors can accurately predict Negative Affect in a sample of both depressed and non-depressed adults in Colombia r emo::ji(\"colombia\") using regression trees. Take a look here"
-  },
-  {
-    "objectID": "projects.html#understanding-negative-affect-in-adults",
-    "href": "projects.html#understanding-negative-affect-in-adults",
-    "title": "Current Projects",
-    "section": "",
-    "text": "I’m waiting for BMC psychology to review our work in a publication that aims to examine the extent to which cognitive schemas, attributional style, experiences of child adversity, and lifestyle factors such as alcohol, drug use, and physical activity are risk factors can accurately predict Negative Affect in a sample of both depressed and non-depressed adults in Colombia r emo::ji(\"colombia\") using regression trees. Take a look here"
+    "text": "I’m waiting for BMC psychology to review our work in a publication that aims to examine the extent to which cognitive schemas, attributional style, experiences of child adversity, and lifestyle factors such as alcohol, drug use, and physical activity are risk factors can accurately predict Negative Affect in a sample of both depressed and non-depressed adults in Colombia 🇨🇴 using regression trees. Take a look here"
   },
   {
     "objectID": "projects.html#persistent-sadness-and-hopelessness-in-youth-a-supervised-machine-learning-classification-approach-to-identify-risk-factors",
@@ -46,7 +32,7 @@
     "href": "projects.html#dissertation---comparing-supervised-machine-learning-classification-methods-to-identify-risk-factors-for-suicide-morbidity-among-usa-high-school-students",
     "title": "Current Projects",
     "section": "Dissertation - Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students",
-    "text": "Dissertation - Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students\n\n\nAs of December 2022, my research proposal on adolescent suicide morbidity has been approved, and I am currently focused on building the code to analyze the data.\nYou can view the slides to my research proposal by clicking here! r emo::ji(\"eyes\")"
+    "text": "Dissertation - Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students\n\n\nAs of December 2022, my research proposal on adolescent suicide morbidity has been approved, and I am currently focused on building the code to analyze the data.\nYou can view the slides to my research proposal by clicking here! 👀"
   },
   {
     "objectID": "projects.html#dissertationdata-an-accessible-r-package-for-exploring-2019-and-2021-yrbs-data",
@@ -67,7 +53,7 @@
     "href": "projects.html#exploring-gratitude-in-children-evaluating-an-instrument-to-measure-factors-and-impact-on-well-being",
     "title": "Current Projects",
     "section": "Exploring Gratitude in Children: Evaluating an Instrument to Measure Factors and Impact on Well-Being",
-    "text": "Exploring Gratitude in Children: Evaluating an Instrument to Measure Factors and Impact on Well-Being\n\n\n\n\n\n\nAs my research primarily focuses on negative emotions such as depression, hopelessness, negative affect, and suicide, I strive to maintain a balanced approach by exploring positive emotions as well. Currently, I am conducting a project that delves into gratitude in children, which has been found to be a significant factor in fostering resilience and building positive social relationships.\nOur project aims to evaluate an instrument that measures gratitude in children. To gather empirical evidence about its underlying factors, we are performing both confirmatory and exploratory factor analyses on a sample of 503 children from Colombia r emo::ji(\"colombia\"). By doing so, we aim to gain a comprehensive understanding of the factors that contribute to gratitude in children and its potential impact on their overall well-being."
+    "text": "Exploring Gratitude in Children: Evaluating an Instrument to Measure Factors and Impact on Well-Being\n\n\n\n\n\n\nAs my research primarily focuses on negative emotions such as depression, hopelessness, negative affect, and suicide, I strive to maintain a balanced approach by exploring positive emotions as well. Currently, I am conducting a project that delves into gratitude in children, which has been found to be a significant factor in fostering resilience and building positive social relationships.\nOur project aims to evaluate an instrument that measures gratitude in children. To gather empirical evidence about its underlying factors, we are performing both confirmatory and exploratory factor analyses on a sample of 503 children from Colombia 🇨🇴. By doing so, we aim to gain a comprehensive understanding of the factors that contribute to gratitude in children and its potential impact on their overall well-being."
   },
   {
     "objectID": "projects.html#world-trade-center-health-study-in-florida",
@@ -82,5 +68,12 @@
     "title": "Current Projects",
     "section": "First Responders Care Corner",
     "text": "First Responders Care Corner\n\n\n\n\n\n\nI hold a deep passion for the wellbeing and mental health of disaster first responders. My research journey is driven by the goal of equipping these invaluable individuals with resources that guide them to a wealth of information and relevant referrals. In collaboration with Professor Mark Macgowan, we have come together to establish a comprehensive website. This platform is meticulously designed to serve as a valuable space for disaster first responders, offering a hub of essential information and connections to appropriate resources. I invite you to take a closer look at our efforts by visiting the website: Mental Health Matters for First Responders."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Catalina Cañizares",
+    "section": "",
+    "text": "I’m a passionate data scientist and a Ph.D. candidate in Social Welfare, dedicated to using data to gain insights into emotional disorders. I’ve been delving deep into data analysis, especially with R. My focus? Making data understandable and useful.\nI specialize in cleaning and merging data, and I love exploring data with tools like tidyverse, table1, gtsummary, and skimr among others. I’m also interested in using Machine Learning models, with the tidymodels package, to better understand emotional disorders.\nPlus, I’m all about keeping things clear and reproducible by using tools such as Quarto and RMarkdown. That means you can trust my work, and it can be easily followed by others."
   }
 ]
