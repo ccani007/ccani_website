@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching Resources",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Catalina Cañizares",
     "section": "",
-    "text": "😄 Best of all, these materials are completely free to use!\n👀 Whether you’re a student, educator, or simply interested in expanding your knowledge, I invite you to explore the resources I’ve created.\n🕶 My goal is to continue creating interactive slides and other resources that can be used to enhance learning and knowledge-sharing worldwide.\n\n\n\nContent\nType of material\nPresented to\nWhere\n\n\n\n\nstringr and Regular Expressions\nSlides\nAdvanced R class\nFlorida International University\n\n\nstringr and Regular Expressions\nLab\nAdvanced R class\nFlorida International University\n\n\nRMarkdown for Reproducible Reports\nSlides\nAdvanced R class\nFlorida International University\n\n\nQuarto for Reproducible Reports\nSlides\nSWWR 27TH Annual Conference\nPhoenix, AZ\n\n\nIntroduction to Machine Learning\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nIntroduction to tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nRegularization Techniques: Ridge, Lasso and Elastic Net using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nDecision Trees Using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nRandom Forest Using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nKNN Using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University"
+    "text": "Hi there!\nI’m a passionate data scientist and a Ph.D. candidate in Social Welfare, dedicated to using data to gain insights into emotional disorders. I’ve been delving deep into data analysis, especially with R. My focus? Making data understandable and useful.\nI specialize in cleaning and merging data, and I love exploring data with tools like tidyverse, table1, gtsummary, and skimr among others. I’m also interested in using Machine Learning models, with the tidymodels package, to better understand emotional disorders.\nPlus, I’m all about keeping things clear and reproducible by using tools such as Quarto and RMarkdown. That means you can trust my work, and it can be easily followed by others."
   },
   {
     "objectID": "resume.html",
@@ -14,6 +14,13 @@
     "text": "I embed a current version of my CV below. You can also view the PDF here."
   },
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Resources",
+    "section": "",
+    "text": "I have developed a collection of educational materials that I’m excited to share with you.\nr emo::ji(\"smile\") Best of all, these materials are completely free to use!\nr emo::ji(\"eyes\") Whether you’re a student, educator, or simply interested in expanding your knowledge, I invite you to explore the resources I’ve created.\nr emo::ji(\"eyewear\") My goal is to continue creating interactive slides and other resources that can be used to enhance learning and knowledge-sharing worldwide.\n\n\n\nContent\nType of material\nPresented to\nWhere\n\n\n\n\nstringr and Regular Expressions\nSlides\nAdvanced R class\nFlorida International University\n\n\nstringr and Regular Expressions\nLab\nAdvanced R class\nFlorida International University\n\n\nRMarkdown for Reproducible Reports\nSlides\nAdvanced R class\nFlorida International University\n\n\nQuarto for Reproducible Reports\nSlides\nSWWR 27TH Annual Conference\nPhoenix, AZ\n\n\nIntroduction to Machine Learning\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nIntroduction to tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nRegularization Techniques: Ridge, Lasso and Elastic Net using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nDecision Trees Using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nRandom Forest Using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nKNN Using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Current Projects",
@@ -21,11 +28,11 @@
     "text": "This research, set to be presented as a poster at the Work Stress and Health Conference, investigated the primary risk factors and their interactions in predicting PTSD diagnoses among 9/11 first responders who moved to Florida, using tree-based methodologies. The study identified key determinants like younger age, low distress levels, and lack of exposure to severe injuries as factors decreasing the likelihood of PTSD, while older age, increased distress, and past trauma history heightened the risk. These findings resonate with past research, notably emphasizing the roles of exposure intensity and 9/11-related injuries. The analysis not only reaffirms past discoveries but also showcases the interplay between various factors. (Once presented, I will make the repository public)."
   },
   {
-    "objectID": "projects.html#persistent-sadness-and-hopelessness-in-youth-a-supervised-machine-learning-classification-approach-to-identify-risk-factors",
-    "href": "projects.html#persistent-sadness-and-hopelessness-in-youth-a-supervised-machine-learning-classification-approach-to-identify-risk-factors",
+    "objectID": "projects.html#predicting-ptsd-diagnosis-in-a-cohort-of-first-responders-to-the-911-attacks-a-supervised-machine-learning-approach-using-classification-trees",
+    "href": "projects.html#predicting-ptsd-diagnosis-in-a-cohort-of-first-responders-to-the-911-attacks-a-supervised-machine-learning-approach-using-classification-trees",
     "title": "Current Projects",
-    "section": "Persistent Sadness and Hopelessness in Youth: A Supervised Machine Learning Classification Approach to Identify Risk Factors",
-    "text": "Persistent Sadness and Hopelessness in Youth: A Supervised Machine Learning Classification Approach to Identify Risk Factors\n\n\n\n\n\n\nFeelings of hopelessness in adolescents have been consistently linked to mental health outcomes such as depression and suicidality, including suicide ideation and attempts. In recognition of its importance, hopelessness has been added to the DSM and is considered within risk-factor guidelines and integrated into structured suicide-risk assessments. Despite this, research exploring risk factors that increase the likelihood of adolescents feeling hopeless is scarce and hopelessness has acquired secondary consideration in literature. Therefore I am working in a publication that aims to address this gap by investigating the effect of intra and interpersonal risk and protective factors on adolescent hopelessness. Check out the poster"
+    "section": "",
+    "text": "This research, set to be presented as a poster at the Work Stress and Health Conference, investigated the primary risk factors and their interactions in predicting PTSD diagnoses among 9/11 first responders who moved to Florida, using tree-based methodologies. The study identified key determinants like younger age, low distress levels, and lack of exposure to severe injuries as factors decreasing the likelihood of PTSD, while older age, increased distress, and past trauma history heightened the risk. These findings resonate with past research, notably emphasizing the roles of exposure intensity and 9/11-related injuries. The analysis not only reaffirms past discoveries but also showcases the interplay between various factors. (Once presented, I will make the repository public)."
   },
   {
     "objectID": "projects.html#dissertation---comparing-supervised-machine-learning-classification-methods-to-identify-risk-factors-for-suicide-morbidity-among-usa-high-school-students",
@@ -42,11 +49,25 @@
     "text": "dissertationData: An Accessible R Package for Exploring 2019 and 2021 YRBS Data\n\n\n\n\n\n\nMy dissertation is built upon data gathered from the 2019 and 2021 Youth Risk Behavior Surveys (YRBS). To simplify access to this data, I’ve created an R package that is available for public use. This package provides a user-friendly way for others to explore and utilize the valuable information collected from these surveys. Check out the repository"
   },
   {
-    "objectID": "projects.html#understanding-adolescent-alcohol-consumption-a-decision-tree-analysis-using-the-yrbss-2019-data",
-    "href": "projects.html#understanding-adolescent-alcohol-consumption-a-decision-tree-analysis-using-the-yrbss-2019-data",
+    "objectID": "projects.html#using-tree-based-models-to-identify-factors-contributing-to-trait-negative-affect-in-adults-with-and-without-major-depression",
+    "href": "projects.html#using-tree-based-models-to-identify-factors-contributing-to-trait-negative-affect-in-adults-with-and-without-major-depression",
     "title": "Current Projects",
-    "section": "Understanding Adolescent Alcohol Consumption: A Decision Tree Analysis Using the YRBSS 2019 Data",
-    "text": "Understanding Adolescent Alcohol Consumption: A Decision Tree Analysis Using the YRBSS 2019 Data\n\n\nAs part of my ongoing passion to help prevent adolescents from engaging in self-harm and promote their success as adults, I am currently involved in a project aimed at understanding the risk factors associated with drinking behaviors. Although this project is in its early stages, our team has already developed a decision tree to identify the primary risk factors that contribute to alcohol consumption among US adolescents. These risk factors include using vaping products, engaging in risky sexual behaviors, using drugs, and others."
+    "section": "Using Tree-Based Models to Identify Factors Contributing to Trait Negative Affect in Adults With and Without Major Depression",
+    "text": "Using Tree-Based Models to Identify Factors Contributing to Trait Negative Affect in Adults With and Without Major Depression\n\n\nI’m waiting for BMC psychology to review our work in a publication that aims to examine the extent to which cognitive schemas, attributional style, experiences of child adversity, and lifestyle factors such as alcohol, drug use, and physical activity are risk factors can accurately predict Negative Affect in a sample of both depressed and non-depressed adults in Colombia 🇨🇴 using regression trees. Take a look here"
+  },
+  {
+    "objectID": "projects.html#persistent-sadness-and-hopelessness-in-youth-a-supervised-machine-learning-classification-approach-to-identify-risk-factors",
+    "href": "projects.html#persistent-sadness-and-hopelessness-in-youth-a-supervised-machine-learning-classification-approach-to-identify-risk-factors",
+    "title": "Current Projects",
+    "section": "Persistent Sadness and Hopelessness in Youth: A Supervised Machine Learning Classification Approach to Identify Risk Factors",
+    "text": "Persistent Sadness and Hopelessness in Youth: A Supervised Machine Learning Classification Approach to Identify Risk Factors\n\n\n\n\n\n\nFeelings of hopelessness in adolescents have been consistently linked to mental health outcomes such as depression and suicidality, including suicide ideation and attempts. In recognition of its importance, hopelessness has been added to the DSM and is considered within risk-factor guidelines and integrated into structured suicide-risk assessments. Despite this, research exploring risk factors that increase the likelihood of adolescents feeling hopeless is scarce and hopelessness has acquired secondary consideration in literature. Therefore I am working in a publication that aims to address this gap by investigating the effect of intra and interpersonal risk and protective factors on adolescent hopelessness. Check out the poster"
+  },
+  {
+    "objectID": "projects.html#psychosocial-interventions-post-mass-casualty-events-a-network-meta-analysis",
+    "href": "projects.html#psychosocial-interventions-post-mass-casualty-events-a-network-meta-analysis",
+    "title": "Current Projects",
+    "section": "Psychosocial Interventions Post-Mass Casualty Events: A Network Meta-Analysis",
+    "text": "Psychosocial Interventions Post-Mass Casualty Events: A Network Meta-Analysis\n\n\nIn collaboration with my dissertation chair and scholars from the University of Murcia in Spain, we are undertaking a comprehensive network meta-analysis. Our aim is to identify the psychosocial interventions delivered to victims and first responders following mass casualty events, whether man-made or natural. To date, we have meticulously screened 13,370 articles, conducted full-text reviews of 161, and extracted data from 64. Currently, we are in the process of constructing tables to further the analysis. We anticipate having results in the near future and will soon commence writing the manuscript."
   },
   {
     "objectID": "projects.html#exploring-gratitude-in-children-evaluating-an-instrument-to-measure-factors-and-impact-on-well-being",
@@ -68,33 +89,5 @@
     "title": "Current Projects",
     "section": "First Responders Care Corner",
     "text": "First Responders Care Corner\n\n\n\n\n\n\nI hold a deep passion for the wellbeing and mental health of disaster first responders. My research journey is driven by the goal of equipping these invaluable individuals with resources that guide them to a wealth of information and relevant referrals. In collaboration with Professor Mark Macgowan, we have come together to establish a comprehensive website. This platform is meticulously designed to serve as a valuable space for disaster first responders, offering a hub of essential information and connections to appropriate resources. I invite you to take a closer look at our efforts by visiting the website: Mental Health Matters for First Responders."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Catalina Cañizares",
-    "section": "",
-    "text": "I’m a passionate data scientist and a Ph.D. candidate in Social Welfare, dedicated to using data to gain insights into emotional disorders. I’ve been delving deep into data analysis, especially with R. My focus? Making data understandable and useful.\nI specialize in cleaning and merging data, and I love exploring data with tools like tidyverse, table1, gtsummary, and skimr among others. I’m also interested in using Machine Learning models, with the tidymodels package, to better understand emotional disorders.\nPlus, I’m all about keeping things clear and reproducible by using tools such as Quarto and RMarkdown. That means you can trust my work, and it can be easily followed by others."
-  },
-  {
-    "objectID": "projects.html#predicting-ptsd-diagnosis-in-a-cohort-of-first-responders-to-the-911-attacks-a-supervised-machine-learning-approach-using-classification-trees",
-    "href": "projects.html#predicting-ptsd-diagnosis-in-a-cohort-of-first-responders-to-the-911-attacks-a-supervised-machine-learning-approach-using-classification-trees",
-    "title": "Current Projects",
-    "section": "",
-    "text": "This research, set to be presented as a poster at the Work Stress and Health Conference, investigated the primary risk factors and their interactions in predicting PTSD diagnoses among 9/11 first responders who moved to Florida, using tree-based methodologies. The study identified key determinants like younger age, low distress levels, and lack of exposure to severe injuries as factors decreasing the likelihood of PTSD, while older age, increased distress, and past trauma history heightened the risk. These findings resonate with past research, notably emphasizing the roles of exposure intensity and 9/11-related injuries. The analysis not only reaffirms past discoveries but also showcases the interplay between various factors. (Once presented, I will make the repository public)."
-  },
-  {
-    "objectID": "projects.html#using-tree-based-models-to-identify-factors-contributing-to-trait-negative-affect-in-adults-with-and-without-major-depression",
-    "href": "projects.html#using-tree-based-models-to-identify-factors-contributing-to-trait-negative-affect-in-adults-with-and-without-major-depression",
-    "title": "Current Projects",
-    "section": "Using Tree-Based Models to Identify Factors Contributing to Trait Negative Affect in Adults With and Without Major Depression",
-    "text": "Using Tree-Based Models to Identify Factors Contributing to Trait Negative Affect in Adults With and Without Major Depression\n\n\nI’m waiting for BMC psychology to review our work in a publication that aims to examine the extent to which cognitive schemas, attributional style, experiences of child adversity, and lifestyle factors such as alcohol, drug use, and physical activity are risk factors can accurately predict Negative Affect in a sample of both depressed and non-depressed adults in Colombia 🇨🇴 using regression trees. Take a look here"
-  },
-  {
-    "objectID": "projects.html#psychosocial-interventions-post-mass-casualty-events-a-network-meta-analysis",
-    "href": "projects.html#psychosocial-interventions-post-mass-casualty-events-a-network-meta-analysis",
-    "title": "Current Projects",
-    "section": "Psychosocial Interventions Post-Mass Casualty Events: A Network Meta-Analysis",
-    "text": "Psychosocial Interventions Post-Mass Casualty Events: A Network Meta-Analysis\n\n\nIn collaboration with my dissertation chair and scholars from the University of Murcia in Spain, we are undertaking a comprehensive network meta-analysis. Our aim is to identify the psychosocial interventions delivered to victims and first responders following mass casualty events, whether man-made or natural. To date, we have meticulously screened 13,370 articles, conducted full-text reviews of 161, and extracted data from 64. Currently, we are in the process of constructing tables to further the analysis. We anticipate having results in the near future and will soon commence writing the manuscript."
   }
 ]
