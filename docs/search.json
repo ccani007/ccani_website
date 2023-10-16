@@ -42,11 +42,11 @@
     "text": "Dissertation - Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students\n\n\nAs of December 2022, my research proposal on adolescent suicide morbidity has been approved, and I am currently focused on building the code to analyze the data.\nYou can view the slides to my research proposal by clicking here! 👀"
   },
   {
-    "objectID": "projects.html#dissertationdata-an-accessible-r-package-for-exploring-2019-and-2021-yrbs-data",
-    "href": "projects.html#dissertationdata-an-accessible-r-package-for-exploring-2019-and-2021-yrbs-data",
+    "objectID": "projects.html#dissertationdata-an-r-package-for-clean-2017-2019-and-2021-yrbs-data",
+    "href": "projects.html#dissertationdata-an-r-package-for-clean-2017-2019-and-2021-yrbs-data",
     "title": "Current Projects",
-    "section": "dissertationData: An Accessible R Package for Exploring 2019 and 2021 YRBS Data",
-    "text": "dissertationData: An Accessible R Package for Exploring 2019 and 2021 YRBS Data\n\n\n\n\n\n\nMy dissertation is built upon data gathered from the 2019 and 2021 Youth Risk Behavior Surveys (YRBS). To simplify access to this data, I’ve created an R package that is available for public use. This package provides a user-friendly way for others to explore and utilize the valuable information collected from these surveys. Check out the repository"
+    "section": "dissertationData: An R Package for clean 2017, 2019 and 2021 YRBS Data",
+    "text": "dissertationData: An R Package for clean 2017, 2019 and 2021 YRBS Data\n\n\n\n\n\n\nMy dissertation is built upon data gathered from the 2017, 2019 and 2021 Youth Risk Behavior Surveys (YRBS). To simplify access to this data, I’ve created an R package that is available for public use. This package provides a user-friendly way for others to explore and utilize the data. Check the package website here 👀"
   },
   {
     "objectID": "projects.html#using-tree-based-models-to-identify-factors-contributing-to-trait-negative-affect-in-adults-with-and-without-major-depression",

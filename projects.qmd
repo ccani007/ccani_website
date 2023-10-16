@@ -37,7 +37,7 @@ You can view the slides to my research proposal by clicking  [here!](https://rpu
 :::
 
 
-## dissertationData: An Accessible R Package for Exploring 2019 and 2021 YRBS Data
+## dissertationData: An R Package for clean 2017, 2019 and 2021 YRBS Data
 ::: columns
 ::: {.column width="40%"}
 ![](img/dissertationData.png)
@@ -48,7 +48,7 @@ You can view the slides to my research proposal by clicking  [here!](https://rpu
 
 ::: {.column width="55%"}
 
-My dissertation is built upon data gathered from the 2019 and 2021 Youth Risk Behavior Surveys (YRBS). To simplify access to this data, I've created an R package that is available for public use. This package provides a user-friendly way for others to explore and utilize the valuable information collected from these surveys. Check out the repository [![](img/github.svg)](https://github.com/ccani007/dissertationData)
+My dissertation is built upon data gathered from the 2017, 2019 and 2021 Youth Risk Behavior Surveys (YRBS). To simplify access to this data, I've created an R package that is available for public use. This package provides a user-friendly way for others to explore and utilize the data. Check the package website  [here](https://ccani007.github.io/dissertationData/) 👀
 :::
 :::
 
