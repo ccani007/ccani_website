@@ -5,11 +5,11 @@ title: "Teaching Resources"
 I have developed a collection of educational materials that I'm excited to share with you. 
 
 
-`r emo::ji("smile")` Best of all, these materials are completely free to use!     
-`r emo::ji("eyes")`  Whether you're a student, educator, or simply interested in expanding your knowledge, I invite you to explore the resources I've created.   
+🥹 Best of all, these materials are completely free to use!     
+👀  Whether you're a student, educator, or simply interested in expanding your knowledge, I invite you to explore the resources I've created.   
 
 
-`r emo::ji("eyewear")` *My goal is to continue creating interactive slides and other resources that can be used to enhance learning and knowledge-sharing worldwide.*
+😎 *My goal is to continue creating interactive slides and other resources that can be used to enhance learning and knowledge-sharing worldwide.*
 
 | Content                                                           | Type of material                                                                                                 | Presented to                               | Where                                     |
 | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ----------------------------------------- |
