@@ -2,34 +2,22 @@
 title: "Current Projects"
 ---
 
-## Understanding Negative Affect in Adults
 
-::: columns
-::: {.column width="55%"}
-I'm waiting for BMC psychology to review our work in a publication that aims to examine the extent to which cognitive schemas, attributional style, experiences of child adversity, and lifestyle factors such as alcohol, drug use, and physical activity are risk factors can accurately predict Negative Affect in a sample of both depressed and non-depressed adults in Colombia `r emo::ji("colombia")` using regression trees. Take a look [here](https://www.researchsquare.com/article/rs-2978274/v1) 
-:::
 
-::: {.column width="5%"}
-:::
-
-::: {.column width="40%"}
-![](img/tree.png)
-:::
-:::
-
-## Persistent Sadness and Hopelessness in Youth: A Supervised Machine Learning Classification Approach to Identify Risk Factors
+## Predicting PTSD Diagnosis in a Cohort of First Responders to the 9/11 Attacks: A Supervised Machine Learning Approach Using Classification Trees
 ::: columns
 ::: {.column width="40%"}
-![](img/hopeless.png)
+![](img/wtc_tree.png)
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="55%"}
-Feelings of hopelessness in adolescents have been consistently linked to mental health outcomes such as depression and suicidality, including suicide ideation and attempts. In recognition of its importance, hopelessness has been added to the DSM and is considered within risk-factor guidelines and integrated into structured suicide-risk assessments. Despite this, research exploring risk factors that increase the likelihood of adolescents feeling hopeless is scarce and hopelessness has acquired secondary consideration in literature. Therefore I am working in a publication that aims to address this gap by investigating the effect of intra and interpersonal risk and protective factors on adolescent hopelessness. Check out the poster [![](img/github.svg)](https://github.com/ccani007/hopelessness_poster.git)
+This research, set to be presented as a poster at the Work Stress and Health Conference, investigated the primary risk factors and their interactions in predicting PTSD diagnoses among 9/11 first responders who moved to Florida, using tree-based methodologies. The study identified key determinants like younger age, low distress levels, and lack of exposure to severe injuries as factors decreasing the likelihood of PTSD, while older age, increased distress, and past trauma history heightened the risk. These findings resonate with past research, notably emphasizing the roles of exposure intensity and 9/11-related injuries. The analysis not only reaffirms past discoveries but also showcases the interplay between various factors. (Once presented, I will make the repository public).
 :::
 :::
+
 
 ## Dissertation - Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students
 
@@ -37,7 +25,7 @@ Feelings of hopelessness in adolescents have been consistently linked to mental 
 ::: {.column width="55%"}
 As of December 2022, my research proposal on adolescent suicide morbidity has been approved, and I am currently focused on building the code to analyze the data. 
 
-You can view the slides to my research proposal by clicking  [here!](https://rpubs.com/ccani007/983802) `r emo::ji("eyes")` 
+You can view the slides to my research proposal by clicking  [here!](https://rpubs.com/ccani007/983802) 👀
 :::
 
 ::: {.column width="5%"}
@@ -64,20 +52,66 @@ My dissertation is built upon data gathered from the 2019 and 2021 Youth Risk Be
 :::
 :::
 
-## Understanding Adolescent Alcohol Consumption: A Decision Tree Analysis Using the YRBSS 2019 Data
+## Using Tree-Based Models to Identify Factors Contributing to Trait Negative Affect in Adults With and Without Major Depression
 
 ::: columns
 ::: {.column width="55%"}
-As part of my ongoing passion to help prevent adolescents from engaging in self-harm and promote their success as adults, I am currently involved in a project aimed at understanding the risk factors associated with drinking behaviors. Although this project is in its early stages, our team has already developed a decision tree to identify the primary risk factors that contribute to alcohol consumption among US adolescents. These risk factors include using vaping products, engaging in risky sexual behaviors, using drugs, and others.
+I'm waiting for BMC psychology to review our work in a publication that aims to examine the extent to which cognitive schemas, attributional style, experiences of child adversity, and lifestyle factors such as alcohol, drug use, and physical activity are risk factors can accurately predict Negative Affect in a sample of both depressed and non-depressed adults in Colombia 🇨🇴 using regression trees. Take a look [here](https://www.researchsquare.com/article/rs-2978274/v1) 
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="40%"}
-![](img/alcohol_tree.png)
+![](img/tree.png)
 :::
 :::
+
+## Persistent Sadness and Hopelessness in Youth: A Supervised Machine Learning Classification Approach to Identify Risk Factors
+::: columns
+::: {.column width="40%"}
+![](img/hopeless.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+Feelings of hopelessness in adolescents have been consistently linked to mental health outcomes such as depression and suicidality, including suicide ideation and attempts. In recognition of its importance, hopelessness has been added to the DSM and is considered within risk-factor guidelines and integrated into structured suicide-risk assessments. Despite this, research exploring risk factors that increase the likelihood of adolescents feeling hopeless is scarce and hopelessness has acquired secondary consideration in literature. Therefore I am working in a publication that aims to address this gap by investigating the effect of intra and interpersonal risk and protective factors on adolescent hopelessness. Check out the poster [![](img/github.svg)](https://github.com/ccani007/hopelessness_poster.git)
+:::
+:::
+
+
+## Psychosocial Interventions Post-Mass Casualty Events: A Network Meta-Analysis
+
+::: columns
+::: {.column width="55%"}
+
+In collaboration with my dissertation chair and scholars from the University of Murcia in Spain, we are undertaking a comprehensive network meta-analysis. Our aim is to identify the psychosocial interventions delivered to victims and first responders following mass casualty events, whether man-made or natural. To date, we have meticulously screened 13,370 articles, conducted full-text reviews of 161, and extracted data from 64. Currently, we are in the process of constructing tables to further the analysis. We anticipate having results in the near future and will soon commence writing the manuscript.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](img/network.webp)
+:::
+:::
+
+<!-- ## Understanding Adolescent Alcohol Consumption: A Decision Tree Analysis Using the YRBSS 2019 Data -->
+
+<!-- ::: columns -->
+<!-- ::: {.column width="55%"} -->
+<!-- As part of my ongoing passion to help prevent adolescents from engaging in self-harm and promote their success as adults, I am currently involved in a project aimed at understanding the risk factors associated with drinking behaviors. Although this project is in its early stages, our team has already developed a decision tree to identify the primary risk factors that contribute to alcohol consumption among US adolescents. These risk factors include using vaping products, engaging in risky sexual behaviors, using drugs, and others. -->
+<!-- ::: -->
+
+<!-- ::: {.column width="5%"} -->
+<!-- ::: -->
+
+<!-- ::: {.column width="40%"} -->
+<!-- ![](img/alcohol_tree.png) -->
+<!-- ::: -->
+<!-- ::: -->
 
 ## Exploring Gratitude in Children: Evaluating an Instrument to Measure Factors and Impact on Well-Being
 ::: columns
@@ -91,7 +125,7 @@ As part of my ongoing passion to help prevent adolescents from engaging in self-
 ::: {.column width="55%"}
 As my research primarily focuses on negative emotions such as depression, hopelessness, negative affect, and suicide, I strive to maintain a balanced approach by exploring positive emotions as well. Currently, I am conducting a project that delves into gratitude in children, which has been found to be a significant factor in fostering resilience and building positive social relationships.
 
-Our project aims to evaluate an instrument that measures gratitude in children. To gather empirical evidence about its underlying factors, we are performing both confirmatory and exploratory factor analyses on a sample of 503 children from Colombia `r emo::ji("colombia")`. By doing so, we aim to gain a comprehensive understanding of the factors that contribute to gratitude in children and its potential impact on their overall well-being.
+Our project aims to evaluate an instrument that measures gratitude in children. To gather empirical evidence about its underlying factors, we are performing both confirmatory and exploratory factor analyses on a sample of 503 children from Colombia 🇨🇴. By doing so, we aim to gain a comprehensive understanding of the factors that contribute to gratitude in children and its potential impact on their overall well-being.
 :::
 :::
 

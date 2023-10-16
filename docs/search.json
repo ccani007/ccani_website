@@ -18,7 +18,7 @@
     "href": "projects.html",
     "title": "Current Projects",
     "section": "",
-    "text": "I’m waiting for BMC psychology to review our work in a publication that aims to examine the extent to which cognitive schemas, attributional style, experiences of child adversity, and lifestyle factors such as alcohol, drug use, and physical activity are risk factors can accurately predict Negative Affect in a sample of both depressed and non-depressed adults in Colombia 🇨🇴 using regression trees. Take a look here"
+    "text": "This research, set to be presented as a poster at the Work Stress and Health Conference, investigated the primary risk factors and their interactions in predicting PTSD diagnoses among 9/11 first responders who moved to Florida, using tree-based methodologies. The study identified key determinants like younger age, low distress levels, and lack of exposure to severe injuries as factors decreasing the likelihood of PTSD, while older age, increased distress, and past trauma history heightened the risk. These findings resonate with past research, notably emphasizing the roles of exposure intensity and 9/11-related injuries. The analysis not only reaffirms past discoveries but also showcases the interplay between various factors. (Once presented, I will make the repository public)."
   },
   {
     "objectID": "projects.html#persistent-sadness-and-hopelessness-in-youth-a-supervised-machine-learning-classification-approach-to-identify-risk-factors",
@@ -75,5 +75,26 @@
     "title": "Catalina Cañizares",
     "section": "",
     "text": "I’m a passionate data scientist and a Ph.D. candidate in Social Welfare, dedicated to using data to gain insights into emotional disorders. I’ve been delving deep into data analysis, especially with R. My focus? Making data understandable and useful.\nI specialize in cleaning and merging data, and I love exploring data with tools like tidyverse, table1, gtsummary, and skimr among others. I’m also interested in using Machine Learning models, with the tidymodels package, to better understand emotional disorders.\nPlus, I’m all about keeping things clear and reproducible by using tools such as Quarto and RMarkdown. That means you can trust my work, and it can be easily followed by others."
+  },
+  {
+    "objectID": "projects.html#predicting-ptsd-diagnosis-in-a-cohort-of-first-responders-to-the-911-attacks-a-supervised-machine-learning-approach-using-classification-trees",
+    "href": "projects.html#predicting-ptsd-diagnosis-in-a-cohort-of-first-responders-to-the-911-attacks-a-supervised-machine-learning-approach-using-classification-trees",
+    "title": "Current Projects",
+    "section": "",
+    "text": "This research, set to be presented as a poster at the Work Stress and Health Conference, investigated the primary risk factors and their interactions in predicting PTSD diagnoses among 9/11 first responders who moved to Florida, using tree-based methodologies. The study identified key determinants like younger age, low distress levels, and lack of exposure to severe injuries as factors decreasing the likelihood of PTSD, while older age, increased distress, and past trauma history heightened the risk. These findings resonate with past research, notably emphasizing the roles of exposure intensity and 9/11-related injuries. The analysis not only reaffirms past discoveries but also showcases the interplay between various factors. (Once presented, I will make the repository public)."
+  },
+  {
+    "objectID": "projects.html#using-tree-based-models-to-identify-factors-contributing-to-trait-negative-affect-in-adults-with-and-without-major-depression",
+    "href": "projects.html#using-tree-based-models-to-identify-factors-contributing-to-trait-negative-affect-in-adults-with-and-without-major-depression",
+    "title": "Current Projects",
+    "section": "Using Tree-Based Models to Identify Factors Contributing to Trait Negative Affect in Adults With and Without Major Depression",
+    "text": "Using Tree-Based Models to Identify Factors Contributing to Trait Negative Affect in Adults With and Without Major Depression\n\n\nI’m waiting for BMC psychology to review our work in a publication that aims to examine the extent to which cognitive schemas, attributional style, experiences of child adversity, and lifestyle factors such as alcohol, drug use, and physical activity are risk factors can accurately predict Negative Affect in a sample of both depressed and non-depressed adults in Colombia 🇨🇴 using regression trees. Take a look here"
+  },
+  {
+    "objectID": "projects.html#psychosocial-interventions-post-mass-casualty-events-a-network-meta-analysis",
+    "href": "projects.html#psychosocial-interventions-post-mass-casualty-events-a-network-meta-analysis",
+    "title": "Current Projects",
+    "section": "Psychosocial Interventions Post-Mass Casualty Events: A Network Meta-Analysis",
+    "text": "Psychosocial Interventions Post-Mass Casualty Events: A Network Meta-Analysis\n\n\nIn collaboration with my dissertation chair and scholars from the University of Murcia in Spain, we are undertaking a comprehensive network meta-analysis. Our aim is to identify the psychosocial interventions delivered to victims and first responders following mass casualty events, whether man-made or natural. To date, we have meticulously screened 13,370 articles, conducted full-text reviews of 161, and extracted data from 64. Currently, we are in the process of constructing tables to further the analysis. We anticipate having results in the near future and will soon commence writing the manuscript."
   }
 ]
