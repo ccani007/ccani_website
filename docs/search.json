@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching Resources",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Catalina Cañizares",
     "section": "",
-    "text": "🥹 Best of all, these materials are completely free to use!\n👀 Whether you’re a student, educator, or simply interested in expanding your knowledge, I invite you to explore the resources I’ve created.\n😎 My goal is to continue creating interactive slides and other resources that can be used to enhance learning and knowledge-sharing worldwide.\n\n\n\nContent\nType of material\nPresented to\nWhere\n\n\n\n\nstringr and Regular Expressions\nSlides\nAdvanced R class\nFlorida International University\n\n\nstringr and Regular Expressions\nLab\nAdvanced R class\nFlorida International University\n\n\nRMarkdown for Reproducible Reports\nSlides\nAdvanced R class\nFlorida International University\n\n\nQuarto for Reproducible Reports\nSlides\nSWWR 27TH Annual Conference\nPhoenix, AZ\n\n\nIntroduction to Machine Learning\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nIntroduction to tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nRegularization Techniques: Ridge, Lasso and Elastic Net using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nDecision Trees Using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nRandom Forest Using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nKNN Using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University"
+    "text": "Hi there!\nI’m a passionate data scientist and a Ph.D. candidate in Social Welfare, dedicated to using data to gain insights into emotional disorders. I’ve been delving deep into data analysis, especially with R. My focus? Making data understandable and useful.\nI specialize in cleaning and merging data, and I love exploring data with tools like tidyverse, table1, gtsummary, and skimr among others. I’m also interested in using Machine Learning models, with the tidymodels package, to better understand emotional disorders.\nPlus, I’m all about keeping things clear and reproducible by using tools such as Quarto and RMarkdown. That means you can trust my work, and it can be easily followed by others."
   },
   {
     "objectID": "resume.html",
@@ -14,8 +14,22 @@
     "text": "I embed a current version of my CV below. You can also view the PDF here."
   },
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Resources",
+    "section": "",
+    "text": "I have developed a collection of educational materials that I’m excited to share with you.\n🥹 Best of all, these materials are completely free to use!\n👀 Whether you’re a student, educator, or simply interested in expanding your knowledge, I invite you to explore the resources I’ve created.\n😎 My goal is to continue creating interactive slides and other resources that can be used to enhance learning and knowledge-sharing worldwide.\n\n\n\nContent\nType of material\nPresented to\nWhere\n\n\n\n\nstringr and Regular Expressions\nSlides\nAdvanced R class\nFlorida International University\n\n\nstringr and Regular Expressions\nLab\nAdvanced R class\nFlorida International University\n\n\nRMarkdown for Reproducible Reports\nSlides\nAdvanced R class\nFlorida International University\n\n\nQuarto for Reproducible Reports\nSlides\nSWWR 27TH Annual Conference\nPhoenix, AZ\n\n\nIntroduction to Machine Learning\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nIntroduction to tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nRegularization Techniques: Ridge, Lasso and Elastic Net using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nDecision Trees Using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nRandom Forest Using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nKNN Using tidymodels\nSlides\nR Computing for Health Sciences\nFlorida International University"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
+    "title": "Current Projects",
+    "section": "",
+    "text": "This research, set to be presented as a poster at the Work Stress and Health Conference, investigated the primary risk factors and their interactions in predicting PTSD diagnoses among 9/11 first responders who moved to Florida, using tree-based methodologies. The study identified key determinants like younger age, low distress levels, and lack of exposure to severe injuries as factors decreasing the likelihood of PTSD, while older age, increased distress, and past trauma history heightened the risk. These findings resonate with past research, notably emphasizing the roles of exposure intensity and 9/11-related injuries. The analysis not only reaffirms past discoveries but also showcases the interplay between various factors. (Once presented, I will make the repository public)."
+  },
+  {
+    "objectID": "projects.html#predicting-ptsd-diagnosis-in-a-cohort-of-first-responders-to-the-911-attacks-a-supervised-machine-learning-approach-using-classification-trees",
+    "href": "projects.html#predicting-ptsd-diagnosis-in-a-cohort-of-first-responders-to-the-911-attacks-a-supervised-machine-learning-approach-using-classification-trees",
     "title": "Current Projects",
     "section": "",
     "text": "This research, set to be presented as a poster at the Work Stress and Health Conference, investigated the primary risk factors and their interactions in predicting PTSD diagnoses among 9/11 first responders who moved to Florida, using tree-based methodologies. The study identified key determinants like younger age, low distress levels, and lack of exposure to severe injuries as factors decreasing the likelihood of PTSD, while older age, increased distress, and past trauma history heightened the risk. These findings resonate with past research, notably emphasizing the roles of exposure intensity and 9/11-related injuries. The analysis not only reaffirms past discoveries but also showcases the interplay between various factors. (Once presented, I will make the repository public)."
@@ -75,12 +89,5 @@
     "title": "Current Projects",
     "section": "First Responders Care Corner",
     "text": "First Responders Care Corner\n\n\n\n\n\n\nI hold a deep passion for the wellbeing and mental health of disaster first responders. My research journey is driven by the goal of equipping these invaluable individuals with resources that guide them to a wealth of information and relevant referrals. In collaboration with Professor Mark Macgowan, we have come together to establish a comprehensive website. This platform is meticulously designed to serve as a valuable space for disaster first responders, offering a hub of essential information and connections to appropriate resources. I invite you to take a closer look at our efforts by visiting the website: Mental Health Matters for First Responders."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Catalina Cañizares",
-    "section": "",
-    "text": "I’m a passionate data scientist and a Ph.D. candidate in Social Welfare, dedicated to using data to gain insights into emotional disorders. I’ve been delving deep into data analysis, especially with R. My focus? Making data understandable and useful.\nI specialize in cleaning and merging data, and I love exploring data with tools like tidyverse, table1, gtsummary, and skimr among others. I’m also interested in using Machine Learning models, with the tidymodels package, to better understand emotional disorders.\nPlus, I’m all about keeping things clear and reproducible by using tools such as Quarto and RMarkdown. That means you can trust my work, and it can be easily followed by others."
   }
 ]
