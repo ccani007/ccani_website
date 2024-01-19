@@ -3,22 +3,6 @@ title: "Current Projects"
 ---
 
 
-
-## Predicting PTSD Diagnosis in a Cohort of First Responders to the 9/11 Attacks: A Supervised Machine Learning Approach Using Classification Trees
-::: columns
-::: {.column width="40%"}
-![](img/wtc_tree.png)
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="55%"}
-This research, set to be presented as a poster at the Work Stress and Health Conference, investigated the primary risk factors and their interactions in predicting PTSD diagnoses among 9/11 first responders who moved to Florida, using tree-based methodologies. The study identified key determinants like younger age, low distress levels, and lack of exposure to severe injuries as factors decreasing the likelihood of PTSD, while older age, increased distress, and past trauma history heightened the risk. These findings resonate with past research, notably emphasizing the roles of exposure intensity and 9/11-related injuries. The analysis not only reaffirms past discoveries but also showcases the interplay between various factors. (Once presented, I will make the repository public).
-:::
-:::
-
-
 ## Dissertation - Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students
 
 ::: columns
