@@ -2,6 +2,23 @@
 title: "Current Projects"
 ---
 
+## R Club
+::: columns
+::: {.column width="40%"}
+![](img/logo.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+
+As I approach the completion of my Ph.D. and begin my search for postdoctoral positions, I have observed that coding skills are consistently listed as a requirement in job descriptions. My motivation to learn coding during my program stemmed from personal interest rather than a formal requirement. With the goal of inspiring my peers, I co-founded an R club with another Ph.D. student from my college. We have designed a curriculum and are on the verge of starting our sessions. To learn more about this project, [click here](https://ccani007.github.io/R_club/) 👀
+:::
+:::
+
+
+
 
 ## Dissertation - Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students
 

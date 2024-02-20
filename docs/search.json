@@ -4,7 +4,7 @@
     "href": "teaching.html",
     "title": "Teaching Resources",
     "section": "",
-    "text": "🥹 Best of all, these materials are completely free to use!\n👀 Whether you’re a student, educator, or simply interested in expanding your knowledge, I invite you to explore the resources I’ve created.\n😎 My goal is to continue creating interactive slides and other resources that can be used to enhance learning and knowledge-sharing worldwide.\n\n\n\nContent\nType of material\nPresented to\nWhere\n\n\n\n\n`stringr` and Regular Expressions\nSlides\nAdvanced R class\nFlorida International University\n\n\n`stringr` and Regular Expressions\nLab\nAdvanced R class\nFlorida International University\n\n\n`RMarkdown` for Reproducible Reports\nSlides\nAdvanced R class\nFlorida International University\n\n\n`Quarto` for Reproducible Reports\nSlides\nSWWR 27TH Annual Conference\nPhoenix, AZ\n\n\nIntroduction to Machine Learning\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nIntroduction to `tidymodels`\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nRegularization Techniques: Ridge, Lasso and Elastic Net using `tidymodels`\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nDecision Trees Using `tidymodels`\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nRandom Forest Using `tidymodels`\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nKNN Using `tidymodels`\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nMastering effective data visualization with `ggplot2` in r: A hands on workshop for social work researchers\nSlides\nSWWR 28th Annual Conference\nWashington, DC"
+    "text": "I have developed a collection of educational materials that I’m excited to share with you.\n🥹 Best of all, these materials are completely free to use!\n👀 Whether you’re a student, educator, or simply interested in expanding your knowledge, I invite you to explore the resources I’ve created.\n😎 My goal is to continue creating interactive slides and other resources that can be used to enhance learning and knowledge-sharing worldwide.\n\n\n\nContent\nType of material\nPresented to\nWhere\n\n\n\n\n`stringr` and Regular Expressions\nSlides\nAdvanced R class\nFlorida International University\n\n\n`stringr` and Regular Expressions\nLab\nAdvanced R class\nFlorida International University\n\n\n`RMarkdown` for Reproducible Reports\nSlides\nAdvanced R class\nFlorida International University\n\n\n`Quarto` for Reproducible Reports\nSlides\nSWWR 27TH Annual Conference\nPhoenix, AZ\n\n\nIntroduction to Machine Learning\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nIntroduction to `tidymodels`\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nRegularization Techniques: Ridge, Lasso and Elastic Net using `tidymodels`\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nDecision Trees Using `tidymodels`\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nRandom Forest Using `tidymodels`\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nKNN Using `tidymodels`\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nMastering effective data visualization with `ggplot2` in r: A hands on workshop for social work researchers\nSlides\nSWWR 28th Annual Conference\nWashington, DC"
   },
   {
     "objectID": "resume.html",
@@ -18,7 +18,7 @@
     "href": "projects.html",
     "title": "Current Projects",
     "section": "",
-    "text": "As of December 2022, my research proposal on adolescent suicide morbidity has been approved, and I am currently focused on building the code to analyze the data.\nYou can view the slides to my research proposal by clicking here! 👀"
+    "text": "As I approach the completion of my Ph.D. and begin my search for postdoctoral positions, I have observed that coding skills are consistently listed as a requirement in job descriptions. My motivation to learn coding during my program stemmed from personal interest rather than a formal requirement. With the goal of inspiring my peers, I co-founded an R club with another Ph.D. student from my college. We have designed a curriculum and are on the verge of starting our sessions. To learn more about this project, click here 👀"
   },
   {
     "objectID": "projects.html#dissertationdata-an-r-package-for-clean-2017-2019-and-2021-yrbs-data",
@@ -75,5 +75,19 @@
     "title": "Catalina Cañizares",
     "section": "",
     "text": "I’m a passionate data scientist and a Ph.D. candidate in Social Welfare, dedicated to using data to gain insights into emotional disorders. I’ve been delving deep into data analysis, especially with R. My focus? Making data understandable and useful.\nI specialize in cleaning and merging data, and I love exploring data with tools like tidyverse, table1, gtsummary, and skimr among others. I’m also interested in using Machine Learning models, with the tidymodels package, to better understand emotional disorders.\nPlus, I’m all about keeping things clear and reproducible by using tools such as Quarto and RMarkdown. That means you can trust my work, and it can be easily followed by others."
+  },
+  {
+    "objectID": "projects.html#r-club",
+    "href": "projects.html#r-club",
+    "title": "Current Projects",
+    "section": "",
+    "text": "As I approach the completion of my Ph.D. and begin my search for postdoctoral positions, I have observed that coding skills are consistently listed as a requirement in job descriptions. My motivation to learn coding during my program stemmed from personal interest rather than a formal requirement. With the goal of inspiring my peers, I co-founded an R club with another Ph.D. student from my college. We have designed a curriculum and are on the verge of starting our sessions. To learn more about this project, click here 👀"
+  },
+  {
+    "objectID": "projects.html#dissertation---comparing-supervised-machine-learning-classification-methods-to-identify-risk-factors-for-suicide-morbidity-among-usa-high-school-students",
+    "href": "projects.html#dissertation---comparing-supervised-machine-learning-classification-methods-to-identify-risk-factors-for-suicide-morbidity-among-usa-high-school-students",
+    "title": "Current Projects",
+    "section": "Dissertation - Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students",
+    "text": "Dissertation - Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students\n\n\nAs of December 2022, my research proposal on adolescent suicide morbidity has been approved, and I am currently focused on building the code to analyze the data.\nYou can view the slides to my research proposal by clicking here! 👀"
   }
 ]
