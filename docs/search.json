@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching Resources",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Catalina Cañizares",
     "section": "",
-    "text": "🥹 Best of all, these materials are completely free to use!\n👀 Whether you’re a student, educator, or simply interested in expanding your knowledge, I invite you to explore the resources I’ve created.\n😎 My goal is to continue creating interactive slides and other resources that can be used to enhance learning and knowledge-sharing worldwide.\n\n\n\nContent\nType of material\nPresented to\nWhere\n\n\n\n\n`stringr` and Regular Expressions\nSlides\nAdvanced R class\nFlorida International University\n\n\n`stringr` and Regular Expressions\nLab\nAdvanced R class\nFlorida International University\n\n\n`RMarkdown` for Reproducible Reports\nSlides\nAdvanced R class\nFlorida International University\n\n\n`Quarto` for Reproducible Reports\nSlides\nSWWR 27TH Annual Conference\nPhoenix, AZ\n\n\nIntroduction to Machine Learning\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nIntroduction to `tidymodels`\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nRegularization Techniques: Ridge, Lasso and Elastic Net using `tidymodels`\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nDecision Trees Using `tidymodels`\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nRandom Forest Using `tidymodels`\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nKNN Using `tidymodels`\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nMastering effective data visualization with `ggplot2` in r: A hands on workshop for social work researchers\nSlides\nSWWR 28th Annual Conference\nWashington, DC"
+    "text": "Hi there!\nI am a researcher dedicated to preventing suicidal behaviors in adolescents. Currently, I am a postdoctoral researcher at NYU Steinhardt School of Culture, Education, and Human Development. My work spans several projects, including intervention programs for preventing suicide attempts and developing data structures to deepen our understanding of adolescent suicide attempts and ideation.\nI am deeply invested in data science, applying machine learning techniques to reveal insights and patterns in suicide-related data. As a primary user of R, I am committed to sharing my knowledge and experiences with the broader community.\nI am also dedicated to ensuring clarity and reproducibility in my work, using tools like Quarto and RMarkdown. This approach ensures that my research is trustworthy and easily followed by others."
   },
   {
     "objectID": "resume.html",
@@ -14,73 +14,80 @@
     "text": "I embed a current version of my CV below. You can also view the PDF here."
   },
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Resources",
+    "section": "",
+    "text": "I have developed a collection of educational materials that I’m excited to share with you.\n🥹 Best of all, these materials are completely free to use!\n👀 Whether you’re a student, educator, or simply interested in expanding your knowledge, I invite you to explore the resources I’ve created.\n😎 My goal is to continue creating interactive slides and other resources that can be used to enhance learning and knowledge-sharing worldwide.\n\n\n\nContent\nType of material\nPresented to\nWhere\n\n\n\n\n`stringr` and Regular Expressions\nSlides\nAdvanced R class\nFlorida International University\n\n\n`stringr` and Regular Expressions\nLab\nAdvanced R class\nFlorida International University\n\n\n`RMarkdown` for Reproducible Reports\nSlides\nAdvanced R class\nFlorida International University\n\n\n`Quarto` for Reproducible Reports\nSlides\nSWWR 27TH Annual Conference\nPhoenix, AZ\n\n\nIntroduction to Machine Learning\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nIntroduction to `tidymodels`\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nRegularization Techniques: Ridge, Lasso and Elastic Net using `tidymodels`\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nDecision Trees Using `tidymodels`\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nRandom Forest Using `tidymodels`\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nKNN Using `tidymodels`\nSlides\nR Computing for Health Sciences\nFlorida International University\n\n\nMastering effective data visualization with `ggplot2` in r: A hands on workshop for social work researchers\nSlides\nSWWR 28th Annual Conference\nWashington, DC"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Current Projects",
+    "title": "Projects",
     "section": "",
-    "text": "As I approach the completion of my Ph.D. and begin my search for postdoctoral positions, I have observed that coding skills are consistently listed as a requirement in job descriptions. My motivation to learn coding during my program stemmed from personal interest rather than a formal requirement. With the goal of inspiring my peers, I co-founded an R club with another Ph.D. student from my college. We have designed a curriculum and are on the verge of starting our sessions. To learn more about this project, click here 👀"
+    "text": "My dissertation explores whether supervised machine learning (ML) models can outperform traditional statistical methods in predicting adolescent suicide attempts, using data from the 2017, 2019, and 2021 Youth Risk Behavior Surveillance System. The results demonstrate that integrating LASSO with logistic regression and addressing data imbalance significantly enhances predictive sensitivity, achieving an 80% accuracy rate. If you’d like to learn more, listen to this podcast:  \n\n  \n  Your browser does not support the audio element."
   },
   {
     "objectID": "projects.html#dissertation---comparing-supervised-machine-learning-classification-methods-to-identify-risk-factors-for-suicide-morbidity-among-usa-high-school-students",
     "href": "projects.html#dissertation---comparing-supervised-machine-learning-classification-methods-to-identify-risk-factors-for-suicide-morbidity-among-usa-high-school-students",
-    "title": "Current Projects",
-    "section": "Dissertation - Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students",
-    "text": "Dissertation - Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students\n\n\nAs of December 2022, my research proposal on adolescent suicide morbidity has been approved, and I am currently focused on building the code to analyze the data.\nYou can view the slides to my research proposal by clicking here! 👀"
+    "title": "Projects",
+    "section": "",
+    "text": "My dissertation explores whether supervised machine learning (ML) models can outperform traditional statistical methods in predicting adolescent suicide attempts, using data from the 2017, 2019, and 2021 Youth Risk Behavior Surveillance System. The results demonstrate that integrating LASSO with logistic regression and addressing data imbalance significantly enhances predictive sensitivity, achieving an 80% accuracy rate. If you’d like to learn more, listen to this podcast:  \n\n  \n  Your browser does not support the audio element."
   },
   {
     "objectID": "projects.html#dissertationdata-an-r-package-for-clean-2017-2019-and-2021-yrbs-data",
     "href": "projects.html#dissertationdata-an-r-package-for-clean-2017-2019-and-2021-yrbs-data",
-    "title": "Current Projects",
+    "title": "Projects",
     "section": "dissertationData: An R Package for clean 2017, 2019 and 2021 YRBS Data",
     "text": "dissertationData: An R Package for clean 2017, 2019 and 2021 YRBS Data\n\n\n\n\n\n\nMy dissertation is built upon data gathered from the 2017, 2019 and 2021 Youth Risk Behavior Surveys (YRBS). To simplify access to this data, I’ve created an R package that is available for public use. This package provides a user-friendly way for others to explore and utilize the data. Check the package website here 👀"
   },
   {
+    "objectID": "projects.html#r-club",
+    "href": "projects.html#r-club",
+    "title": "Projects",
+    "section": "R Club",
+    "text": "R Club\n\n\n\n\n\n\nAs I approach the completion of my Ph.D. and begin my search for postdoctoral positions, I have observed that coding skills are consistently listed as a requirement in job descriptions. My motivation to learn coding during my program stemmed from personal interest rather than a formal requirement. With the goal of inspiring my peers, I co-founded an R club with another Ph.D. student from my college. We have designed a curriculum and are on the verge of starting our sessions. To learn more about this project, click here 👀"
+  },
+  {
     "objectID": "projects.html#using-tree-based-models-to-identify-factors-contributing-to-trait-negative-affect-in-adults-with-and-without-major-depression",
     "href": "projects.html#using-tree-based-models-to-identify-factors-contributing-to-trait-negative-affect-in-adults-with-and-without-major-depression",
-    "title": "Current Projects",
+    "title": "Projects",
     "section": "Using Tree-Based Models to Identify Factors Contributing to Trait Negative Affect in Adults With and Without Major Depression",
     "text": "Using Tree-Based Models to Identify Factors Contributing to Trait Negative Affect in Adults With and Without Major Depression\n\n\nI’m waiting for BMC psychology to review our work in a publication that aims to examine the extent to which cognitive schemas, attributional style, experiences of child adversity, and lifestyle factors such as alcohol, drug use, and physical activity are risk factors can accurately predict Negative Affect in a sample of both depressed and non-depressed adults in Colombia 🇨🇴 using regression trees. Take a look here"
   },
   {
     "objectID": "projects.html#persistent-sadness-and-hopelessness-in-youth-a-supervised-machine-learning-classification-approach-to-identify-risk-factors",
     "href": "projects.html#persistent-sadness-and-hopelessness-in-youth-a-supervised-machine-learning-classification-approach-to-identify-risk-factors",
-    "title": "Current Projects",
+    "title": "Projects",
     "section": "Persistent Sadness and Hopelessness in Youth: A Supervised Machine Learning Classification Approach to Identify Risk Factors",
     "text": "Persistent Sadness and Hopelessness in Youth: A Supervised Machine Learning Classification Approach to Identify Risk Factors\n\n\n\n\n\n\nFeelings of hopelessness in adolescents have been consistently linked to mental health outcomes such as depression and suicidality, including suicide ideation and attempts. In recognition of its importance, hopelessness has been added to the DSM and is considered within risk-factor guidelines and integrated into structured suicide-risk assessments. Despite this, research exploring risk factors that increase the likelihood of adolescents feeling hopeless is scarce and hopelessness has acquired secondary consideration in literature. Therefore I am working in a publication that aims to address this gap by investigating the effect of intra and interpersonal risk and protective factors on adolescent hopelessness. Check out the poster"
   },
   {
     "objectID": "projects.html#psychosocial-interventions-post-mass-casualty-events-a-network-meta-analysis",
     "href": "projects.html#psychosocial-interventions-post-mass-casualty-events-a-network-meta-analysis",
-    "title": "Current Projects",
+    "title": "Projects",
     "section": "Psychosocial Interventions Post-Mass Casualty Events: A Network Meta-Analysis",
     "text": "Psychosocial Interventions Post-Mass Casualty Events: A Network Meta-Analysis\n\n\nIn collaboration with my dissertation chair and scholars from the University of Murcia in Spain, we are undertaking a comprehensive network meta-analysis. Our aim is to identify the psychosocial interventions delivered to victims and first responders following mass casualty events, whether man-made or natural. To date, we have meticulously screened 13,370 articles, conducted full-text reviews of 161, and extracted data from 64. Currently, we are in the process of constructing tables to further the analysis. We anticipate having results in the near future and will soon commence writing the manuscript."
   },
   {
     "objectID": "projects.html#exploring-gratitude-in-children-evaluating-an-instrument-to-measure-factors-and-impact-on-well-being",
     "href": "projects.html#exploring-gratitude-in-children-evaluating-an-instrument-to-measure-factors-and-impact-on-well-being",
-    "title": "Current Projects",
+    "title": "Projects",
     "section": "Exploring Gratitude in Children: Evaluating an Instrument to Measure Factors and Impact on Well-Being",
     "text": "Exploring Gratitude in Children: Evaluating an Instrument to Measure Factors and Impact on Well-Being\n\n\n\n\n\n\nAs my research primarily focuses on negative emotions such as depression, hopelessness, negative affect, and suicide, I strive to maintain a balanced approach by exploring positive emotions as well. Currently, I am conducting a project that delves into gratitude in children, which has been found to be a significant factor in fostering resilience and building positive social relationships.\nOur project aims to evaluate an instrument that measures gratitude in children. To gather empirical evidence about its underlying factors, we are performing both confirmatory and exploratory factor analyses on a sample of 503 children from Colombia 🇨🇴. By doing so, we aim to gain a comprehensive understanding of the factors that contribute to gratitude in children and its potential impact on their overall well-being."
   },
   {
     "objectID": "projects.html#world-trade-center-health-study-in-florida",
     "href": "projects.html#world-trade-center-health-study-in-florida",
-    "title": "Current Projects",
+    "title": "Projects",
     "section": "World Trade Center Health Study in Florida",
     "text": "World Trade Center Health Study in Florida\n\n\nI currently serve as the research coordinator for a pilot study investigating the physical and mental health of first responders and survivors of the 9/11 attacks residing in Florida. Our team is currently in the first phase of the project, where we are working to collect as much data as possible.\nIn my role, I have focused on coordination and strategic planning, and have contributed several ideas to the project. One of these ideas was to develop a website that could provide comprehensive information to potential participants and present a welcoming and aesthetically pleasing interface. To achieve this goal, I collaborated with two colleagues from FIU to design and develop a beautiful website. I invite you to visit the website and explore its content."
   },
   {
     "objectID": "projects.html#first-responders-care-corner",
     "href": "projects.html#first-responders-care-corner",
-    "title": "Current Projects",
+    "title": "Projects",
     "section": "First Responders Care Corner",
     "text": "First Responders Care Corner\n\n\n\n\n\n\nI hold a deep passion for the wellbeing and mental health of disaster first responders. My research journey is driven by the goal of equipping these invaluable individuals with resources that guide them to a wealth of information and relevant referrals. In collaboration with Professor Mark Macgowan, we have come together to establish a comprehensive website. This platform is meticulously designed to serve as a valuable space for disaster first responders, offering a hub of essential information and connections to appropriate resources. I invite you to take a closer look at our efforts by visiting the website: Mental Health Matters for First Responders."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Catalina Cañizares",
-    "section": "",
-    "text": "Hi there!\nI am a researcher dedicated to preventing suicidal behaviors in adolescents. Currently, I am a postdoctoral researcher at NYU Steinhardt School of Culture, Education, and Human Development. My work spans several projects, including intervention programs for preventing suicide attempts and developing data structures to deepen our understanding of adolescent suicide attempts and ideation.\nI am deeply invested in data science, applying machine learning techniques to reveal insights and patterns in suicide-related data. As a primary user of R, I am committed to sharing my knowledge and experiences with the broader community.\nI am also dedicated to ensuring clarity and reproducibility in my work, using tools like Quarto and RMarkdown. This approach ensures that my research is trustworthy and easily followed by others."
   }
 ]

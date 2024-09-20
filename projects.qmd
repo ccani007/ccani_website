@@ -1,32 +1,25 @@
 ---
-title: "Current Projects"
+title: "Projects"
 ---
-
-## R Club
-::: columns
-::: {.column width="40%"}
-![](img/logo.png)
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="55%"}
-
-As I approach the completion of my Ph.D. and begin my search for postdoctoral positions, I have observed that coding skills are consistently listed as a requirement in job descriptions. My motivation to learn coding during my program stemmed from personal interest rather than a formal requirement. With the goal of inspiring my peers, I co-founded an R club with another Ph.D. student from my college. We have designed a curriculum and are on the verge of starting our sessions. To learn more about this project, [click here](https://ccani007.github.io/R_club/) 👀
-:::
-:::
-
-
-
 
 ## Dissertation - Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students
 
 ::: columns
 ::: {.column width="55%"}
-As of December 2022, my research proposal on adolescent suicide morbidity has been approved, and I am currently focused on building the code to analyze the data. 
+My dissertation explores whether supervised machine learning (ML) models can outperform traditional statistical methods in predicting adolescent suicide attempts, using data from the 2017, 2019, and 2021 Youth Risk Behavior Surveillance System. The results demonstrate that integrating LASSO with logistic regression and addressing data imbalance significantly enhances predictive sensitivity, achieving an 80% accuracy rate. If you'd like to learn more, listen to this podcast: 
+<br/>
+<br/>
 
-You can view the slides to my research proposal by clicking  [here!](https://rpubs.com/ccani007/983802) 👀
+
+
+```{=html}
+<audio controls>
+  <source src="img/Suicide.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+
+```
+
 :::
 
 ::: {.column width="5%"}
@@ -52,6 +45,23 @@ You can view the slides to my research proposal by clicking  [here!](https://rpu
 My dissertation is built upon data gathered from the 2017, 2019 and 2021 Youth Risk Behavior Surveys (YRBS). To simplify access to this data, I've created an R package that is available for public use. This package provides a user-friendly way for others to explore and utilize the data. Check the package website  [here](https://ccani007.github.io/dissertationData/) 👀
 :::
 :::
+
+## R Club
+::: columns
+::: {.column width="40%"}
+![](img/logo.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+
+As I approach the completion of my Ph.D. and begin my search for postdoctoral positions, I have observed that coding skills are consistently listed as a requirement in job descriptions. My motivation to learn coding during my program stemmed from personal interest rather than a formal requirement. With the goal of inspiring my peers, I co-founded an R club with another Ph.D. student from my college. We have designed a curriculum and are on the verge of starting our sessions. To learn more about this project, [click here](https://ccani007.github.io/R_club/) 👀
+:::
+:::
+
+
 
 ## Using Tree-Based Models to Identify Factors Contributing to Trait Negative Affect in Adults With and Without Major Depression
 
