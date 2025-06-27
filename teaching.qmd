@@ -8,24 +8,182 @@ execute:
 
 I have developed a collection of educational materials that I'm excited to share with you. 
 
-
-🥹 Best of all, these materials are completely free to use!     
-👀  Whether you're a student, educator, or simply interested in expanding your knowledge, I invite you to explore the resources I've created.   
-
+> Best of all, these materials are completely free to use!     
+> Whether you're a student, educator, or simply interested in expanding your knowledge, I invite you to explore the resources I've created.   
 
 😎 *My goal is to continue creating interactive slides and other resources that can be used to enhance learning and knowledge-sharing worldwide.*
 
+<style>
+.resource-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
 
-|  Content                                                                                                       |  Type of material                                                                                                         |  Presented to                                                                                  |  Where                            |
-| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------- |
-|  \`stringr\` and Regular Expressions                                                                           |  [Slides](https://ccani007.github.io/stringr_slides/#1)                                                                   |  Advanced R class                                                                              |  Florida International University |
-|  \`stringr\` and Regular Expressions                                                                           |  [Lab](https://lcj9js-catalina-canizares.shinyapps.io/lab_str/?_ga=2.91765914.149069591.1678297151-1765971331.1678297151) |  Advanced R class                                                                              |  Florida International University |
-|  \`RMarkdown\` for Reproducible Reports                                                                        |  [Slides](https://ccani007.github.io/advancedR_Slides/#1)                                                                 |  Advanced R class                                                                              |  Florida International University |
-|  \`Quarto\` for Reproducible Reports                                                                           |  [Slides](https://rpubs.com/ccani007/991805)                                                                              |  [SWWR 27TH Annual Conference](https://sswr.confex.com/sswr/2023/webprogram/Session13742.html) |  Phoenix, AZ                      |
-|  Introduction to Machine Learning                                                                              |  [Slides](https://catalina.quarto.pub/introduction-to-machine-learning/)                                                  |  R Computing for Health Sciences                                                               |  Florida International University |
-|  Introduction to \`tidymodels\`                                                                                |  [Slides](https://catalina.quarto.pub/introduction-to-tidymodels/)                                                        |  R Computing for Health Sciences                                                               |  Florida International University |
-|  Regularization Techniques: Ridge, Lasso and Elastic Net using \`tidymodels\`                                  |  [Slides](https://catalina.quarto.pub/regularization-techniques-ridge-lasso-and-elastic-net-using-tidymodels/)            |  R Computing for Health Sciences                                                               |  Florida International University |
-|  Decision Trees Using \`tidymodels\`                                                                           |  [Slides](https://catalina.quarto.pub/decision-trees-using-tidymodels/)                                                   |  R Computing for Health Sciences                                                               |  Florida International University |
-|  Random Forest Using \`tidymodels\`                                                                            |  [Slides](https://catalina.quarto.pub/random-forest-using-tidymodels/)                                                    |  R Computing for Health Sciences                                                               |  Florida International University |
-|  KNN Using \`tidymodels\`                                                                                      |  [Slides](https://catalina.quarto.pub/knn-with-tidymodels/)                                                               |  R Computing for Health Sciences                                                               |  Florida International University |
-|  Mastering effective data visualization with \`ggplot2\` in r: A hands on workshop for social work researchers |  [Slides](https://catalina.quarto.pub/ggplot-workshop/)                                                                   |  [SWWR 28th Annual Conference](https://sswr.confex.com/sswr/2024/webprogram/Session14318.html) |  Washington, DC                   |
+.resource-section {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border-radius: 15px;
+  padding: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border: 1px solid #dee2e6;
+}
+
+.section-title {
+  color: #495057;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  border-bottom: 3px solid #007bff;
+  padding-bottom: 0.5rem;
+}
+
+.resource-button {
+  display: block;
+  width: 100%;
+  padding: 1rem 1.5rem;
+  margin: 0.75rem 0;
+  background: linear-gradient(135deg, #007bff 0%, #0056b3 100%);
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  text-align: center;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 123, 255, 0.3);
+  border: none;
+  cursor: pointer;
+}
+
+.resource-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 123, 255, 0.4);
+  background: linear-gradient(135deg, #0056b3 0%, #004085 100%);
+  color: white;
+  text-decoration: none;
+}
+
+.resource-button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 4px rgba(0, 123, 255, 0.3);
+}
+
+.ml-button {
+  background: linear-gradient(135deg, #28a745 0%, #1e7e34 100%);
+  box-shadow: 0 2px 4px rgba(40, 167, 69, 0.3);
+}
+
+.ml-button:hover {
+  box-shadow: 0 4px 12px rgba(40, 167, 69, 0.4);
+  background: linear-gradient(135deg, #1e7e34 0%, #155724 100%);
+}
+
+.data-viz-button {
+  background: linear-gradient(135deg, #fd7e14 0%, #e55a00 100%);
+  box-shadow: 0 2px 4px rgba(253, 126, 20, 0.3);
+}
+
+.data-viz-button:hover {
+  box-shadow: 0 4px 12px rgba(253, 126, 20, 0.4);
+  background: linear-gradient(135deg, #e55a00 0%, #cc4a00 100%);
+}
+
+.reports-button {
+  background: linear-gradient(135deg, #6f42c1 0%, #9c27b0 100%);
+  box-shadow: 0 2px 4px rgba(111, 66, 193, 0.3);
+}
+
+.reports-button:hover {
+  box-shadow: 0 4px 12px rgba(111, 66, 193, 0.4);
+  background: linear-gradient(135deg, #5a32a3 0%, #7b1fa2 100%);
+}
+
+@media (max-width: 768px) {
+  .resource-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .resource-section {
+    padding: 1.5rem;
+  }
+}
+</style>
+
+<div class="resource-grid">
+
+<div class="resource-section">
+<h3 class="section-title">📊 Data Manipulation & Analysis</h3>
+
+<a href="https://catalina.quarto.pub/intro-to-r-2025/#/title-slide" class="resource-button">
+Introduction to R
+</a>
+
+<a href="https://catalina.quarto.pub/session-2---the-data-jedi-academy-cleaning-your-data-with-r-and-tidyverse/#/title-slide" class="resource-button">
+Cleaning Data with tidyverse
+</a>
+
+<a href="https://ccani007.github.io/stringr_slides" class="resource-button">
+stringr and Regular Expressions
+</a>
+
+<a href="https://lcj9js-catalina-canizares.shinyapps.io/lab_str/?_ga=2.91765914.149069591.1678297151" class="resource-button">
+stringr Practice Lab
+</a>
+
+<a href="https://catalina.quarto.pub/session-2---shake-it-off-mastering-data-tables-with-taylor-swifts-tracks/" class="resource-button">
+Mastering Tables in R
+</a>
+</div>
+
+<div class="resource-section">
+<h3 class="section-title">📝 Reproducible Reports</h3>
+
+<a href="https://ccani007.github.io/advancedR_Slides" class="resource-button reports-button">
+RMarkdown for Reproducible Reports
+</a>
+
+<a href="https://rpubs.com/ccani007/991805" class="resource-button reports-button">
+Quarto for Reproducible Reports
+</a>
+</div>
+
+<div class="resource-section">
+<h3 class="section-title">📈 Data Visualization</h3>
+
+<a href="https://catalina.quarto.pub/ggplot-workshop/" class="resource-button data-viz-button">
+Mastering Data Visualization with ggplot2
+</a>
+</div>
+
+<div class="resource-section">
+<h3 class="section-title">🤖 Machine Learning</h3>
+
+<a href="https://catalina.quarto.pub/introduction-to-machine-learning-ec98/#/title-slide" class="resource-button ml-button">
+Introduction to Machine Learning
+</a>
+
+<a href="https://catalina.quarto.pub/introduction-to-tidymodels-78fb/#/title-slide" class="resource-button ml-button">
+Introduction to tidymodels
+</a>
+
+<a href="https://catalina.quarto.pub/regularization-techniques-ridge-lasso-and-elastic-net-using-tidymodels-daaa/#/title-slide" class="resource-button ml-button">
+Regularization Techniques: Ridge, Lasso and Elastic Net
+</a>
+
+<a href="https://catalina.quarto.pub/decision-trees-using-tidymodels-cce4/#/title-slide" class="resource-button ml-button">
+Decision Trees Using tidymodels
+</a>
+
+<a href="https://catalina.quarto.pub/session-4-random-forest-and-xgboost/#/title-slide" class="resource-button ml-button">
+Random Forest Using tidymodels
+</a>
+
+<a href="https://catalina.quarto.pub/knn-using-tidymodels/#/title-slide" class="resource-button ml-button">
+KNN Using tidymodels
+</a>
+</div>
+
+</div>
+
+
