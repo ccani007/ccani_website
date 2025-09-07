@@ -2,6 +2,36 @@
 title: "Projects"
 ---
 
+## Data Systems
+
+::: columns
+::: {.column width="55%"}
+Youth suicide research often overlooks the contextual factors that shape adolescents' lives - their schools, neighborhoods, and communities. Current data systems segment information by individual characteristics, missing the broader environmental picture. We're developing an innovative data system that integrates administrative data across national, state, and district levels to identify place-based trends in suicidal behaviors and inform policy solutions. Using a user-centered, participatory design approach, this project will build tools that empower researchers, agency leaders, and communities to understand local suicide contexts and develop targeted interventions for youth suicide prevention.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](img/placeholder.png)
+:::
+:::
+
+## Directing Change RCT
+
+::: columns
+::: {.column width="40%"}
+![](img/placeholder.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+I analyze the data from the cluster randomized trial providing evidence on the impact of Directing Change ([directingchangeca.org](https://directingchangeca.org/)). I cleaned the data, created a data R package to analyze the data and currently writing impact papers.
+:::
+:::
+
 ## Dissertation - Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students
 
 ::: columns
@@ -67,7 +97,7 @@ As I approach the completion of my Ph.D. and begin my search for postdoctoral po
 
 ::: columns
 ::: {.column width="55%"}
-I'm waiting for BMC psychology to review our work in a publication that aims to examine the extent to which cognitive schemas, attributional style, experiences of child adversity, and lifestyle factors such as alcohol, drug use, and physical activity are risk factors can accurately predict Negative Affect in a sample of both depressed and non-depressed adults in Colombia 🇨🇴 using regression trees. Take a look [here](https://www.researchsquare.com/article/rs-2978274/v1) 
+Our work has been published in BMC Psychology! This study examines how cognitive schemas, attributional style, childhood adversity, and lifestyle factors (alcohol, drug use, and physical activity) predict Negative Affect in both depressed and non-depressed adults in Colombia 🇨🇴 using regression trees. The findings revealed that cognitive schemas of disconnection/rejection and impaired autonomy significantly impact negative affect, with childhood adversity as a crucial determining factor. Read the full publication [here](https://bmcpsychology.biomedcentral.com/articles/10.1186/s40359-024-02245-z) 
 :::
 
 ::: {.column width="5%"}
@@ -123,22 +153,6 @@ In collaboration with my dissertation chair and scholars from the University of 
 <!-- ![](img/alcohol_tree.png) -->
 <!-- ::: -->
 <!-- ::: -->
-
-## Exploring Gratitude in Children: Evaluating an Instrument to Measure Factors and Impact on Well-Being
-::: columns
-::: {.column width="40%"}
-![](img/Gratitude.png)
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="55%"}
-As my research primarily focuses on negative emotions such as depression, hopelessness, negative affect, and suicide, I strive to maintain a balanced approach by exploring positive emotions as well. Currently, I am conducting a project that delves into gratitude in children, which has been found to be a significant factor in fostering resilience and building positive social relationships.
-
-Our project aims to evaluate an instrument that measures gratitude in children. To gather empirical evidence about its underlying factors, we are performing both confirmatory and exploratory factor analyses on a sample of 503 children from Colombia 🇨🇴. By doing so, we aim to gain a comprehensive understanding of the factors that contribute to gratitude in children and its potential impact on their overall well-being.
-:::
-:::
 
 
 ## World Trade Center Health Study in Florida

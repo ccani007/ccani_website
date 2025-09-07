@@ -18,14 +18,28 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "My dissertation explores whether supervised machine learning (ML) models can outperform traditional statistical methods in predicting adolescent suicide attempts, using data from the 2017, 2019, and 2021 Youth Risk Behavior Surveillance System. The results demonstrate that integrating LASSO with logistic regression and addressing data imbalance significantly enhances predictive sensitivity, achieving an 80% accuracy rate. If you’d like to learn more, listen to this podcast:  \n\n  \n  Your browser does not support the audio element."
+    "text": "Youth suicide research often overlooks the contextual factors that shape adolescents’ lives - their schools, neighborhoods, and communities. Current data systems segment information by individual characteristics, missing the broader environmental picture. We’re developing an innovative data system that integrates administrative data across national, state, and district levels to identify place-based trends in suicidal behaviors and inform policy solutions. Using a user-centered, participatory design approach, this project will build tools that empower researchers, agency leaders, and communities to understand local suicide contexts and develop targeted interventions for youth suicide prevention."
+  },
+  {
+    "objectID": "projects.html#data-systems",
+    "href": "projects.html#data-systems",
+    "title": "Projects",
+    "section": "",
+    "text": "Youth suicide research often overlooks the contextual factors that shape adolescents’ lives - their schools, neighborhoods, and communities. Current data systems segment information by individual characteristics, missing the broader environmental picture. We’re developing an innovative data system that integrates administrative data across national, state, and district levels to identify place-based trends in suicidal behaviors and inform policy solutions. Using a user-centered, participatory design approach, this project will build tools that empower researchers, agency leaders, and communities to understand local suicide contexts and develop targeted interventions for youth suicide prevention."
+  },
+  {
+    "objectID": "projects.html#directing-change-rct",
+    "href": "projects.html#directing-change-rct",
+    "title": "Projects",
+    "section": "Directing Change RCT",
+    "text": "Directing Change RCT\n\n\n\n\n\n\nI analyze the data from the cluster randomized trial providing evidence on the impact of Directing Change (directingchangeca.org). I cleaned the data, created a data R package to analyze the data and currently writing impact papers."
   },
   {
     "objectID": "projects.html#dissertation---comparing-supervised-machine-learning-classification-methods-to-identify-risk-factors-for-suicide-morbidity-among-usa-high-school-students",
     "href": "projects.html#dissertation---comparing-supervised-machine-learning-classification-methods-to-identify-risk-factors-for-suicide-morbidity-among-usa-high-school-students",
     "title": "Projects",
-    "section": "",
-    "text": "My dissertation explores whether supervised machine learning (ML) models can outperform traditional statistical methods in predicting adolescent suicide attempts, using data from the 2017, 2019, and 2021 Youth Risk Behavior Surveillance System. The results demonstrate that integrating LASSO with logistic regression and addressing data imbalance significantly enhances predictive sensitivity, achieving an 80% accuracy rate. If you’d like to learn more, listen to this podcast:  \n\n  \n  Your browser does not support the audio element."
+    "section": "Dissertation - Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students",
+    "text": "Dissertation - Comparing Supervised Machine Learning Classification Methods to Identify Risk Factors for Suicide Morbidity Among USA High School Students\n\n\nMy dissertation explores whether supervised machine learning (ML) models can outperform traditional statistical methods in predicting adolescent suicide attempts, using data from the 2017, 2019, and 2021 Youth Risk Behavior Surveillance System. The results demonstrate that integrating LASSO with logistic regression and addressing data imbalance significantly enhances predictive sensitivity, achieving an 80% accuracy rate. If you’d like to learn more, listen to this podcast:  \n\n  \n  Your browser does not support the audio element."
   },
   {
     "objectID": "projects.html#dissertationdata-an-r-package-for-clean-2017-2019-and-2021-yrbs-data",
@@ -46,7 +60,7 @@
     "href": "projects.html#using-tree-based-models-to-identify-factors-contributing-to-trait-negative-affect-in-adults-with-and-without-major-depression",
     "title": "Projects",
     "section": "Using Tree-Based Models to Identify Factors Contributing to Trait Negative Affect in Adults With and Without Major Depression",
-    "text": "Using Tree-Based Models to Identify Factors Contributing to Trait Negative Affect in Adults With and Without Major Depression\n\n\nI’m waiting for BMC psychology to review our work in a publication that aims to examine the extent to which cognitive schemas, attributional style, experiences of child adversity, and lifestyle factors such as alcohol, drug use, and physical activity are risk factors can accurately predict Negative Affect in a sample of both depressed and non-depressed adults in Colombia 🇨🇴 using regression trees. Take a look here"
+    "text": "Using Tree-Based Models to Identify Factors Contributing to Trait Negative Affect in Adults With and Without Major Depression\n\n\nOur work has been published in BMC Psychology! This study examines how cognitive schemas, attributional style, childhood adversity, and lifestyle factors (alcohol, drug use, and physical activity) predict Negative Affect in both depressed and non-depressed adults in Colombia 🇨🇴 using regression trees. The findings revealed that cognitive schemas of disconnection/rejection and impaired autonomy significantly impact negative affect, with childhood adversity as a crucial determining factor. Read the full publication here"
   },
   {
     "objectID": "projects.html#persistent-sadness-and-hopelessness-in-youth-a-supervised-machine-learning-classification-approach-to-identify-risk-factors",
@@ -61,13 +75,6 @@
     "title": "Projects",
     "section": "Psychosocial Interventions Post-Mass Casualty Events: A Network Meta-Analysis",
     "text": "Psychosocial Interventions Post-Mass Casualty Events: A Network Meta-Analysis\n\n\nIn collaboration with my dissertation chair and scholars from the University of Murcia in Spain, we are undertaking a comprehensive network meta-analysis. Our aim is to identify the psychosocial interventions delivered to victims and first responders following mass casualty events, whether man-made or natural. To date, we have meticulously screened 13,370 articles, conducted full-text reviews of 161, and extracted data from 64. Currently, we are in the process of constructing tables to further the analysis. We anticipate having results in the near future and will soon commence writing the manuscript."
-  },
-  {
-    "objectID": "projects.html#exploring-gratitude-in-children-evaluating-an-instrument-to-measure-factors-and-impact-on-well-being",
-    "href": "projects.html#exploring-gratitude-in-children-evaluating-an-instrument-to-measure-factors-and-impact-on-well-being",
-    "title": "Projects",
-    "section": "Exploring Gratitude in Children: Evaluating an Instrument to Measure Factors and Impact on Well-Being",
-    "text": "Exploring Gratitude in Children: Evaluating an Instrument to Measure Factors and Impact on Well-Being\n\n\n\n\n\n\nAs my research primarily focuses on negative emotions such as depression, hopelessness, negative affect, and suicide, I strive to maintain a balanced approach by exploring positive emotions as well. Currently, I am conducting a project that delves into gratitude in children, which has been found to be a significant factor in fostering resilience and building positive social relationships.\nOur project aims to evaluate an instrument that measures gratitude in children. To gather empirical evidence about its underlying factors, we are performing both confirmatory and exploratory factor analyses on a sample of 503 children from Colombia 🇨🇴. By doing so, we aim to gain a comprehensive understanding of the factors that contribute to gratitude in children and its potential impact on their overall well-being."
   },
   {
     "objectID": "projects.html#world-trade-center-health-study-in-florida",
