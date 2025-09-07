@@ -13,7 +13,7 @@ Youth suicide research often overlooks the contextual factors that shape adolesc
 :::
 
 ::: {.column width="40%"}
-![](img/placeholder.png)
+![](img/data-systems.png)
 :::
 :::
 
@@ -21,7 +21,7 @@ Youth suicide research often overlooks the contextual factors that shape adolesc
 
 ::: columns
 ::: {.column width="40%"}
-![](img/placeholder.png)
+![](img/arcadia.png)
 :::
 
 ::: {.column width="5%"}
