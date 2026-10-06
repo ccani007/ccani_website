@@ -23,7 +23,6 @@ about:
 
 Hi there!
 
-en verdad soy profe
 
 I am a researcher dedicated to preventing suicidal behaviors in adolescents. Currently, I am a `postdoctoral` researcher at `NYU` Steinhardt School of Culture, Education, and Human Development. My work spans several projects, including intervention programs for preventing suicide attempts and developing data structures to deepen our understanding of adolescent suicide attempts and ideation.
 
