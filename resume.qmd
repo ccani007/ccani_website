@@ -1,7 +1,15 @@
 ---
-title: "Resume"
+title: "Curriculum Vitae"
+toc: false
 ---
 
-<iframe src="img/cv.pdf" width="100%" height="100%">
-</iframe>
+::: {.cv-header}
+Assistant Professor of Psychology at Universidad de los Andes.
 
+<a href="img/cv.pdf" class="btn cv-button" download><i class="bi bi-download"></i> Download CV (PDF)</a>
+<a href="img/cv.pdf" class="btn cv-button cv-button-outline" target="_blank">Open in new tab</a>
+:::
+
+::: {.cv-frame}
+<iframe src="img/cv.pdf#view=FitH" title="Catalina Cañizares CV"></iframe>
+:::
