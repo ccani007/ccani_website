@@ -19,6 +19,9 @@ website:
        href: https://github.com/ccani007
      - icon: linkedin
        href: https://www.linkedin.com/in/catalina-ca%C3%B1izares-escobar-2239114a/
+     - icon: person-badge
+       href: https://orcid.org/0000-0002-6854-5205
+       aria-label: ORCID
   page-footer:
     background: "#2c3c54"
     
